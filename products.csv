@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,brand,unit_price,unit_cost,price_band,product_status
+PROD00001,Everday Mouse,Electronics,Mouse,UrbanLeaf,4384.37,3427.05,Medium,Active
+PROD00002,UrbanLeaf Speaker,Electronics,Speaker,ZenWorks,8131.81,4075.63,High,Active
+PROD00003,CorePlus Sunglasses,Fashion,Sunglasses,Vivid,38458.17,22712.1,Medium,Discontinued
+PROD00004,BlueOrbit Power Bank,Electronics,Power Bank,BlueOrbit,184.26,119.61,Low,Active
+PROD00005,UrbanLeaf Body Lotion,Beauty & Personal Care,Body Lotion,Craftly,15978.93,8968.06,Low,Active
+PROD00006,PixelPeak Notebook Pack,Books & Stationery,Notebook Pack,CorePlus,11784.92,7159.65,Low,Active
+PROD00007,Craftly Backpack,Fashion,Backpack,BrightNest,11331.41,5711.14,Low,Active
+PROD00008,Nova Mouse,Electronics,Mouse,Craftly,68421.19,48195.81,Medium,Active
+PROD00009,Everday Textbook,Books & Stationery,Textbook,ZenWorks,5244.53,3930.52,Low,Active
+PROD00010,UrbanLeaf Camera,Electronics,Camera,Nova,517.28,255.63,Low,Active
+PROD00011,ZenWorks Textbook,Books & Stationery,Textbook,Nova,65999.98,38024.8,Medium,Discontinued
+PROD00012,PixelPeak Mixer Grinder,Home & Kitchen,Mixer Grinder,CorePlus,75594.43,45288.78,Low,Active
+PROD00013,Northstar Speaker,Electronics,Speaker,Northstar,6376.52,3303.46,High,Active
+PROD00014,UrbanLeaf Jacket,Fashion,Jacket,UrbanLeaf,9347.99,6861.71,Medium,Discontinued
+PROD00015,UrbanLeaf Perfume,Beauty & Personal Care,Perfume,Everday,3120.81,2144.68,Medium,Active
+PROD00016,CorePlus Face Wash,Beauty & Personal Care,Face Wash,BrightNest,366.5,225.46,High,Active
+PROD00017,ZenWorks Speaker,Electronics,Speaker,ZenWorks,40542.41,29381.6,High,Active
+PROD00018,AeroMax Dress,Fashion,Dress,Craftly,56847.13,31626.79,Medium,Active
+PROD00019,PixelPeak Yoga Mat,Sports & Outdoors,Yoga Mat,PixelPeak,2263.51,1673.45,Medium,Discontinued
+PROD00020,ZenWorks Jacket,Fashion,Jacket,CorePlus,65687.21,36543.44,Medium,Active
+PROD00021,Nova Camping Tent,Sports & Outdoors,Camping Tent,UrbanLeaf,25851.52,15101.74,Medium,Active
+PROD00022,Everday Desk Organizer,Books & Stationery,Desk Organizer,AeroMax,3385.07,2003.16,Medium,Discontinued
+PROD00023,ZenWorks Dining Set,Home & Kitchen,Dining Set,Everday,4159.71,3342.4,Low,Active
+PROD00024,PixelPeak Dress,Fashion,Dress,BlueOrbit,27624.06,21210.4,Low,Discontinued
+PROD00025,PixelPeak Speaker,Electronics,Speaker,ZenWorks,2953.43,1528.43,Low,Active
+PROD00026,Northstar Skipping Rope,Sports & Outdoors,Skipping Rope,Vivid,13436.72,8119.61,Medium,Active
+PROD00027,CorePlus Moisturizer,Beauty & Personal Care,Moisturizer,UrbanLeaf,510.48,369.97,Medium,Discontinued
+PROD00028,PixelPeak Headphones,Electronics,Headphones,Vivid,2673.02,2058.3,Medium,Active
+PROD00029,Vivid Dumbbells,Sports & Outdoors,Dumbbells,Everday,4650.14,2993.89,High,Discontinued
+PROD00030,BlueOrbit Football,Sports & Outdoors,Football,ZenWorks,62809.77,45169.81,High,Discontinued
+PROD00031,PixelPeak Backpack,Fashion,Backpack,Northstar,1130.9,638.38,Medium,Active
+PROD00032,BlueOrbit Coffee Maker,Home & Kitchen,Coffee Maker,Everday,223.47,164.15,Low,Active
+PROD00033,Vivid Dumbbells,Sports & Outdoors,Dumbbells,UrbanLeaf,65710.14,31973.23,Medium,Active
+PROD00034,PixelPeak Art Supplies,Books & Stationery,Art Supplies,Everday,54775.17,29470.71,Low,Active
+PROD00035,Nova Cookware Set,Home & Kitchen,Cookware Set,BlueOrbit,38915.01,24402.89,Medium,Active
+PROD00036,Everday Dining Set,Home & Kitchen,Dining Set,BrightNest,219.83,174.5,Medium,Active
+PROD00037,Everday T-Shirt,Fashion,T-Shirt,BrightNest,228.75,131.34,Medium,Discontinued
+PROD00038,UrbanLeaf Hair Dryer,Beauty & Personal Care,Hair Dryer,Craftly,8873.07,7052.69,Medium,Active
+PROD00039,BlueOrbit Moisturizer,Beauty & Personal Care,Moisturizer,Northstar,4133.78,3230.97,Medium,Active
+PROD00040,Vivid Wallet,Fashion,Wallet,Craftly,323.48,182.99,Medium,Active
+PROD00041,BlueOrbit Lipstick,Beauty & Personal Care,Lipstick,Northstar,16299.41,11167.1,High,Discontinued
+PROD00042,Nova Notebook Pack,Books & Stationery,Notebook Pack,PixelPeak,220.96,142.83,Low,Active
+PROD00043,Northstar Football,Sports & Outdoors,Football,CorePlus,44968.95,26192.6,High,Active
+PROD00044,ZenWorks Perfume,Beauty & Personal Care,Perfume,AeroMax,22797.96,11273.21,Medium,Active
+PROD00045,Craftly Jeans,Fashion,Jeans,UrbanLeaf,199.94,149.24,Medium,Discontinued
+PROD00046,ZenWorks Body Lotion,Beauty & Personal Care,Body Lotion,AeroMax,17160.87,9444.33,Low,Discontinued
+PROD00047,UrbanLeaf Waterproof Bag,Sports & Outdoors,Waterproof Bag,Craftly,2670.05,1435.65,Medium,Active
+PROD00048,Vivid Mixer Grinder,Home & Kitchen,Mixer Grinder,Northstar,353.98,287.78,Low,Discontinued
+PROD00049,Nova Desk Lamp,Home & Kitchen,Desk Lamp,Northstar,9929.39,7471.99,Low,Active
+PROD00050,Nova Skipping Rope,Sports & Outdoors,Skipping Rope,Vivid,41587.49,31850.54,High,Active
+PROD00051,Northstar Sunscreen,Beauty & Personal Care,Sunscreen,Nova,35101.63,23307.3,Medium,Active
+PROD00052,Nova Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,ZenWorks,58505.43,47460.61,Medium,Active
+PROD00053,CorePlus Dining Set,Home & Kitchen,Dining Set,Everday,685.9,560.03,Medium,Discontinued
+PROD00054,CorePlus Running Shoes,Sports & Outdoors,Running Shoes,Everday,24322.92,17605.87,Low,Active
+PROD00055,AeroMax Waterproof Bag,Sports & Outdoors,Waterproof Bag,Craftly,8079.93,5765.47,Low,Active
+PROD00056,Craftly Bedsheet,Home & Kitchen,Bedsheet,BrightNest,66051.32,53063.92,Medium,Active
+PROD00057,Nova Dumbbells,Sports & Outdoors,Dumbbells,BrightNest,6038.7,4126.45,High,Active
+PROD00058,Vivid Bedsheet,Home & Kitchen,Bedsheet,AeroMax,68567.69,55617.73,High,Active
+PROD00059,BrightNest Desk Organizer,Books & Stationery,Desk Organizer,Nova,1723.28,1393.22,Medium,Active
+PROD00060,BrightNest Mixer Grinder,Home & Kitchen,Mixer Grinder,ZenWorks,944.74,706.74,Medium,Active
+PROD00061,UrbanLeaf Keyboard,Electronics,Keyboard,UrbanLeaf,1164.48,859.81,Low,Discontinued
+PROD00062,BrightNest Jacket,Fashion,Jacket,Craftly,5079.35,2964.31,Low,Active
+PROD00063,Northstar Mouse,Electronics,Mouse,UrbanLeaf,72895.6,55007.94,Medium,Active
+PROD00064,Nova Planner,Books & Stationery,Planner,ZenWorks,12676.97,6409.98,High,Active
+PROD00065,BrightNest Wallet,Fashion,Wallet,Everday,1783.61,1265.76,Low,Discontinued
+PROD00066,Northstar Textbook,Books & Stationery,Textbook,CorePlus,62163.23,31588.14,Medium,Active
+PROD00067,AeroMax Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,Vivid,62288.23,47435.79,High,Active
+PROD00068,ZenWorks Fitness Band,Sports & Outdoors,Fitness Band,CorePlus,570.18,334.57,High,Active
+PROD00069,PixelPeak Desk Lamp,Home & Kitchen,Desk Lamp,Northstar,3450.75,2274.85,Medium,Discontinued
+PROD00070,BlueOrbit Face Wash,Beauty & Personal Care,Face Wash,Craftly,393.95,192.61,High,Active
+PROD00071,PixelPeak Smartwatch,Electronics,Smartwatch,UrbanLeaf,253.44,166.66,Medium,Discontinued
+PROD00072,Craftly Makeup Kit,Beauty & Personal Care,Makeup Kit,Nova,17399.33,10782.27,Low,Active
+PROD00073,Craftly Skipping Rope,Sports & Outdoors,Skipping Rope,Vivid,163.97,119.89,Medium,Discontinued
+PROD00074,Craftly Speaker,Electronics,Speaker,PixelPeak,639.24,371.23,Low,Active
+PROD00075,Nova Monitor,Electronics,Monitor,Vivid,9685.56,6930.74,Medium,Active
+PROD00076,UrbanLeaf Mouse,Electronics,Mouse,CorePlus,21523.77,14347.32,Medium,Active
+PROD00077,UrbanLeaf Laptop,Electronics,Laptop,AeroMax,217.39,124.39,Medium,Active
+PROD00078,ZenWorks Marker Set,Books & Stationery,Marker Set,Everday,69168.83,44527.41,Medium,Active
+PROD00079,Nova Running Shoes,Sports & Outdoors,Running Shoes,Craftly,32793.18,15776.62,Medium,Active
+PROD00080,CorePlus Football,Sports & Outdoors,Football,UrbanLeaf,14578.12,8589.71,Low,Discontinued
+PROD00081,PixelPeak Keyboard,Electronics,Keyboard,BlueOrbit,192.62,125.61,High,Active
+PROD00082,CorePlus Coffee Maker,Home & Kitchen,Coffee Maker,Vivid,1119.3,743.01,Medium,Discontinued
+PROD00083,Vivid Sneakers,Fashion,Sneakers,Nova,2058.88,1165.66,Low,Active
+PROD00084,Nova Cycling Helmet,Sports & Outdoors,Cycling Helmet,AeroMax,17730.0,12492.6,Medium,Discontinued
+PROD00085,ZenWorks Art Supplies,Books & Stationery,Art Supplies,Northstar,35307.19,22277.01,High,Active
+PROD00086,BlueOrbit Dumbbells,Sports & Outdoors,Dumbbells,CorePlus,268.03,190.97,Medium,Active
+PROD00087,Vivid Mouse,Electronics,Mouse,BrightNest,5959.67,3576.41,High,Active
+PROD00088,Craftly Cookware Set,Home & Kitchen,Cookware Set,Nova,8237.73,4191.98,Medium,Discontinued
+PROD00089,BlueOrbit Dress,Fashion,Dress,Northstar,1092.2,706.68,High,Discontinued
+PROD00090,Vivid Wallet,Fashion,Wallet,BrightNest,3824.45,2495.01,Medium,Active
+PROD00091,Everday Wallet,Fashion,Wallet,Nova,170.33,85.77,High,Discontinued
+PROD00092,CorePlus Pillow,Home & Kitchen,Pillow,Everday,58532.69,45019.39,Medium,Active
+PROD00093,AeroMax Jeans,Fashion,Jeans,BrightNest,1513.73,921.61,Medium,Active
+PROD00094,Craftly Sneakers,Fashion,Sneakers,BrightNest,59266.77,39002.18,Low,Active
+PROD00095,Vivid Wallet,Fashion,Wallet,BlueOrbit,161.93,83.6,High,Active
+PROD00096,UrbanLeaf Fitness Band,Sports & Outdoors,Fitness Band,Vivid,51341.45,34339.83,Medium,Active
+PROD00097,AeroMax Sunscreen,Beauty & Personal Care,Sunscreen,UrbanLeaf,29727.17,17056.4,Low,Discontinued
+PROD00098,Craftly Body Lotion,Beauty & Personal Care,Body Lotion,AeroMax,58777.79,31802.02,High,Active
+PROD00099,Craftly Sunglasses,Fashion,Sunglasses,ZenWorks,9371.13,4956.83,Medium,Active
+PROD00100,UrbanLeaf Backpack,Fashion,Backpack,Craftly,4326.96,2818.39,Low,Active
+PROD00101,PixelPeak Hair Dryer,Beauty & Personal Care,Hair Dryer,Northstar,817.06,484.46,Low,Active
+PROD00102,Everday Desk Lamp,Home & Kitchen,Desk Lamp,Craftly,16486.44,11131.84,Medium,Discontinued
+PROD00103,Vivid Planner,Books & Stationery,Planner,CorePlus,1365.74,1066.19,Medium,Active
+PROD00104,Everday Cricket Bat,Sports & Outdoors,Cricket Bat,BlueOrbit,6228.06,4379.08,Medium,Discontinued
+PROD00105,BrightNest Dress,Fashion,Dress,CorePlus,169.49,133.4,Medium,Active
+PROD00106,Northstar Watch,Fashion,Watch,BrightNest,224.14,153.37,Low,Active
+PROD00107,Northstar Moisturizer,Beauty & Personal Care,Moisturizer,CorePlus,16585.79,10973.17,Medium,Active
+PROD00108,PixelPeak Headphones,Electronics,Headphones,Nova,1262.66,803.19,Low,Active
+PROD00109,Craftly Desk Lamp,Home & Kitchen,Desk Lamp,Nova,9612.66,4673.37,Medium,Discontinued
+PROD00110,BlueOrbit Trimmer,Beauty & Personal Care,Trimmer,Northstar,11401.91,8740.8,Medium,Active
+PROD00111,BrightNest Moisturizer,Beauty & Personal Care,Moisturizer,Craftly,152.44,82.26,High,Active
+PROD00112,Everday Smartphone,Electronics,Smartphone,Vivid,5461.89,4273.52,Medium,Active
+PROD00113,Everday Pillow,Home & Kitchen,Pillow,UrbanLeaf,227.4,125.92,Medium,Active
+PROD00114,Nova Desk Lamp,Home & Kitchen,Desk Lamp,ZenWorks,269.48,192.13,Medium,Active
+PROD00115,Northstar Skipping Rope,Sports & Outdoors,Skipping Rope,ZenWorks,176.71,98.82,High,Active
+PROD00116,Craftly Sticky Notes,Books & Stationery,Sticky Notes,AeroMax,3051.45,1917.01,Medium,Active
+PROD00117,UrbanLeaf Monitor,Electronics,Monitor,CorePlus,37319.12,28200.63,Medium,Active
+PROD00118,BrightNest Cookware Set,Home & Kitchen,Cookware Set,CorePlus,8457.79,4635.94,High,Active
+PROD00119,UrbanLeaf Face Wash,Beauty & Personal Care,Face Wash,ZenWorks,36798.76,20531.88,Medium,Discontinued
+PROD00120,Northstar Desk Lamp,Home & Kitchen,Desk Lamp,CorePlus,933.22,713.06,Low,Active
+PROD00121,Nova Sticky Notes,Books & Stationery,Sticky Notes,BrightNest,975.32,476.34,High,Active
+PROD00122,PixelPeak Body Lotion,Beauty & Personal Care,Body Lotion,Northstar,4047.53,2202.05,Low,Active
+PROD00123,Northstar Shampoo,Beauty & Personal Care,Shampoo,BlueOrbit,768.77,483.16,Medium,Active
+PROD00124,AeroMax Fitness Band,Sports & Outdoors,Fitness Band,PixelPeak,452.96,323.97,Low,Active
+PROD00125,Craftly Fitness Band,Sports & Outdoors,Fitness Band,AeroMax,31006.38,15353.6,Medium,Discontinued
+PROD00126,Vivid Handbag,Fashion,Handbag,BrightNest,755.76,616.7,Low,Active
+PROD00127,BrightNest Handbag,Fashion,Handbag,BlueOrbit,3159.82,2208.37,Medium,Discontinued
+PROD00128,Nova Desk Organizer,Books & Stationery,Desk Organizer,Everday,6196.25,4265.16,High,Active
+PROD00129,AeroMax Shampoo,Beauty & Personal Care,Shampoo,ZenWorks,652.4,459.68,Medium,Active
+PROD00130,Nova Moisturizer,Beauty & Personal Care,Moisturizer,Vivid,1592.29,1045.06,Medium,Discontinued
+PROD00131,PixelPeak Face Wash,Beauty & Personal Care,Face Wash,BlueOrbit,48682.48,37773.92,Medium,Active
+PROD00132,UrbanLeaf Desk Organizer,Books & Stationery,Desk Organizer,Nova,13273.89,7189.2,Low,Active
+PROD00133,ZenWorks Dumbbells,Sports & Outdoors,Dumbbells,Craftly,161.25,109.76,High,Active
+PROD00134,PixelPeak Mixer Grinder,Home & Kitchen,Mixer Grinder,UrbanLeaf,1176.8,726.39,Medium,Discontinued
+PROD00135,BlueOrbit Football,Sports & Outdoors,Football,Everday,31819.3,20884.87,Low,Active
+PROD00136,Craftly Dumbbells,Sports & Outdoors,Dumbbells,BlueOrbit,41629.77,27969.1,High,Active
+PROD00137,Nova Notebook Pack,Books & Stationery,Notebook Pack,ZenWorks,1088.57,742.77,Medium,Active
+PROD00138,ZenWorks Makeup Kit,Beauty & Personal Care,Makeup Kit,Vivid,5735.95,3391.63,Medium,Discontinued
+PROD00139,Everday Jacket,Fashion,Jacket,ZenWorks,44594.1,22887.34,Low,Active
+PROD00140,Everday Football,Sports & Outdoors,Football,Nova,46291.2,28132.36,Medium,Discontinued
+PROD00141,Northstar Power Bank,Electronics,Power Bank,BlueOrbit,810.96,530.38,High,Active
+PROD00142,Craftly Power Bank,Electronics,Power Bank,AeroMax,1542.29,942.51,Low,Active
+PROD00143,BrightNest Watch,Fashion,Watch,Vivid,183.55,88.43,Low,Active
+PROD00144,Everday Headphones,Electronics,Headphones,BlueOrbit,598.21,369.49,Medium,Active
+PROD00145,Everday Dumbbells,Sports & Outdoors,Dumbbells,ZenWorks,424.18,220.75,Low,Active
+PROD00146,UrbanLeaf Sneakers,Fashion,Sneakers,BrightNest,75828.04,58370.05,Medium,Discontinued
+PROD00147,Nova Makeup Kit,Beauty & Personal Care,Makeup Kit,Everday,721.5,571.89,Low,Discontinued
+PROD00148,Northstar Trimmer,Beauty & Personal Care,Trimmer,Nova,15172.22,9419.43,Medium,Active
+PROD00149,Northstar Cricket Bat,Sports & Outdoors,Cricket Bat,BrightNest,25944.43,16038.73,Low,Active
+PROD00150,ZenWorks Camera,Electronics,Camera,Nova,330.32,202.05,Low,Active
+PROD00151,Craftly Keyboard,Electronics,Keyboard,UrbanLeaf,16471.88,11779.81,Medium,Active
+PROD00152,Nova Cookware Set,Home & Kitchen,Cookware Set,Everday,16945.14,12899.48,Low,Active
+PROD00153,Everday Storage Box,Home & Kitchen,Storage Box,BlueOrbit,9505.16,7682.31,High,Discontinued
+PROD00154,UrbanLeaf Watch,Fashion,Watch,Northstar,7107.14,4159.78,Medium,Discontinued
+PROD00155,Craftly Planner,Books & Stationery,Planner,Vivid,2105.39,1545.77,Low,Active
+PROD00156,BlueOrbit Novel,Books & Stationery,Novel,Nova,21008.28,11143.54,High,Active
+PROD00157,UrbanLeaf Planner,Books & Stationery,Planner,CorePlus,345.01,200.89,Low,Active
+PROD00158,BlueOrbit Hair Dryer,Beauty & Personal Care,Hair Dryer,UrbanLeaf,1775.4,1223.42,High,Active
+PROD00159,CorePlus Fitness Band,Sports & Outdoors,Fitness Band,PixelPeak,30182.66,15181.63,Medium,Discontinued
+PROD00160,Everday T-Shirt,Fashion,T-Shirt,CorePlus,57648.3,41060.1,Medium,Discontinued
+PROD00161,Vivid Lipstick,Beauty & Personal Care,Lipstick,UrbanLeaf,44207.03,34074.45,Medium,Active
+PROD00162,Nova Fitness Band,Sports & Outdoors,Fitness Band,CorePlus,6664.91,5073.3,Medium,Active
+PROD00163,Northstar Marker Set,Books & Stationery,Marker Set,CorePlus,7511.09,6067.65,Low,Discontinued
+PROD00164,BrightNest Water Bottle,Home & Kitchen,Water Bottle,Nova,529.75,385.12,Medium,Active
+PROD00165,PixelPeak Body Lotion,Beauty & Personal Care,Body Lotion,PixelPeak,342.24,204.25,Low,Active
+PROD00166,Vivid Sticky Notes,Books & Stationery,Sticky Notes,Vivid,20791.01,10963.07,Low,Active
+PROD00167,Craftly Dining Set,Home & Kitchen,Dining Set,BrightNest,4167.36,2245.35,Medium,Active
+PROD00168,ZenWorks Football,Sports & Outdoors,Football,ZenWorks,23540.39,16010.01,Medium,Active
+PROD00169,Northstar Wallet,Fashion,Wallet,Northstar,12761.1,8257.8,Low,Discontinued
+PROD00170,BlueOrbit Power Bank,Electronics,Power Bank,CorePlus,46132.9,25693.35,High,Active
+PROD00171,PixelPeak Lipstick,Beauty & Personal Care,Lipstick,CorePlus,13987.69,9027.95,Medium,Active
+PROD00172,Nova Smartphone,Electronics,Smartphone,Northstar,7815.94,4720.66,Medium,Active
+PROD00173,Northstar File Folder,Books & Stationery,File Folder,PixelPeak,810.87,616.25,Low,Active
+PROD00174,AeroMax Dining Set,Home & Kitchen,Dining Set,Vivid,53902.05,28398.0,Medium,Active
+PROD00175,CorePlus Shampoo,Beauty & Personal Care,Shampoo,BlueOrbit,1743.54,927.82,Medium,Active
+PROD00176,UrbanLeaf Perfume,Beauty & Personal Care,Perfume,Everday,26950.11,18405.54,Medium,Active
+PROD00177,Everday Backpack,Fashion,Backpack,AeroMax,1778.39,1346.71,Low,Active
+PROD00178,Nova Marker Set,Books & Stationery,Marker Set,Northstar,54602.5,42813.13,Low,Discontinued
+PROD00179,Everday Camera,Electronics,Camera,Vivid,49143.73,24470.9,High,Active
+PROD00180,BlueOrbit Smartphone,Electronics,Smartphone,BlueOrbit,25320.36,12270.05,High,Active
+PROD00181,Craftly Bedsheet,Home & Kitchen,Bedsheet,BrightNest,418.37,340.99,Medium,Active
+PROD00182,Nova Cricket Bat,Sports & Outdoors,Cricket Bat,PixelPeak,4257.7,2125.59,Low,Discontinued
+PROD00183,AeroMax Marker Set,Books & Stationery,Marker Set,Vivid,161.81,99.11,High,Active
+PROD00184,Vivid Sticky Notes,Books & Stationery,Sticky Notes,BlueOrbit,1520.75,1095.65,High,Active
+PROD00185,BlueOrbit Mixer Grinder,Home & Kitchen,Mixer Grinder,PixelPeak,8327.38,4941.63,Medium,Active
+PROD00186,PixelPeak Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,AeroMax,208.04,168.64,Low,Active
+PROD00187,BlueOrbit Backpack,Fashion,Backpack,BrightNest,2097.97,1541.77,Medium,Active
+PROD00188,BrightNest Sticky Notes,Books & Stationery,Sticky Notes,Everday,173.47,128.13,Medium,Active
+PROD00189,AeroMax Dress,Fashion,Dress,Everday,3494.97,2609.5,Medium,Active
+PROD00190,Northstar Water Bottle,Home & Kitchen,Water Bottle,Nova,4749.93,3523.71,Medium,Active
+PROD00191,ZenWorks Sunglasses,Fashion,Sunglasses,CorePlus,629.73,339.84,Medium,Active
+PROD00192,BlueOrbit Dress,Fashion,Dress,Nova,33173.4,19005.49,Medium,Active
+PROD00193,Nova Sneakers,Fashion,Sneakers,UrbanLeaf,812.0,631.49,Medium,Active
+PROD00194,BlueOrbit Watch,Fashion,Watch,PixelPeak,421.93,286.42,Medium,Active
+PROD00195,Craftly Bedsheet,Home & Kitchen,Bedsheet,CorePlus,7224.13,5814.84,Low,Active
+PROD00196,BlueOrbit Laptop,Electronics,Laptop,CorePlus,961.54,718.56,Medium,Discontinued
+PROD00197,BrightNest File Folder,Books & Stationery,File Folder,PixelPeak,1091.91,575.91,High,Active
+PROD00198,Northstar Planner,Books & Stationery,Planner,Craftly,37610.47,22269.34,High,Discontinued
+PROD00199,PixelPeak Sunglasses,Fashion,Sunglasses,Everday,40977.11,24162.58,Low,Active
+PROD00200,Nova Hair Dryer,Beauty & Personal Care,Hair Dryer,CorePlus,179.46,91.37,Low,Active
+PROD00201,BlueOrbit Pillow,Home & Kitchen,Pillow,AeroMax,38325.7,25701.99,Medium,Discontinued
+PROD00202,CorePlus Wallet,Fashion,Wallet,UrbanLeaf,9355.14,7331.93,Low,Active
+PROD00203,Vivid Pen Set,Books & Stationery,Pen Set,PixelPeak,10407.59,6992.96,Medium,Active
+PROD00204,BlueOrbit File Folder,Books & Stationery,File Folder,Craftly,70602.8,45903.44,Medium,Active
+PROD00205,Everday Sunglasses,Fashion,Sunglasses,BrightNest,56488.41,27256.39,Medium,Active
+PROD00206,Nova Hair Dryer,Beauty & Personal Care,Hair Dryer,Everday,34291.13,24284.6,Medium,Active
+PROD00207,UrbanLeaf Perfume,Beauty & Personal Care,Perfume,BrightNest,13706.17,7708.56,High,Discontinued
+PROD00208,Vivid Dining Set,Home & Kitchen,Dining Set,CorePlus,3268.51,1653.29,Medium,Active
+PROD00209,ZenWorks Textbook,Books & Stationery,Textbook,CorePlus,4218.98,3446.22,Medium,Active
+PROD00210,Nova Handbag,Fashion,Handbag,BlueOrbit,4590.05,2440.1,Medium,Active
+PROD00211,ZenWorks Mouse,Electronics,Mouse,Everday,681.35,428.12,Medium,Active
+PROD00212,PixelPeak Dress,Fashion,Dress,AeroMax,1189.95,693.8,Medium,Active
+PROD00213,ZenWorks Cycling Helmet,Sports & Outdoors,Cycling Helmet,Nova,27050.63,16283.68,Medium,Active
+PROD00214,Everday Sunglasses,Fashion,Sunglasses,CorePlus,197.71,97.25,Medium,Active
+PROD00215,ZenWorks Coffee Maker,Home & Kitchen,Coffee Maker,BlueOrbit,262.68,159.33,High,Active
+PROD00216,BrightNest Watch,Fashion,Watch,Craftly,79011.19,57786.23,Medium,Active
+PROD00217,BrightNest Marker Set,Books & Stationery,Marker Set,Nova,1246.21,714.73,Medium,Active
+PROD00218,Vivid Novel,Books & Stationery,Novel,Northstar,967.83,785.92,Medium,Discontinued
+PROD00219,AeroMax Headphones,Electronics,Headphones,Nova,15073.06,7597.15,Medium,Active
+PROD00220,Nova Marker Set,Books & Stationery,Marker Set,BrightNest,14027.17,10290.43,Low,Active
+PROD00221,Northstar Backpack,Fashion,Backpack,BrightNest,482.84,282.52,Medium,Active
+PROD00222,AeroMax Jeans,Fashion,Jeans,PixelPeak,584.58,454.61,Medium,Active
+PROD00223,BrightNest Perfume,Beauty & Personal Care,Perfume,BlueOrbit,177.32,109.92,Low,Active
+PROD00224,CorePlus Planner,Books & Stationery,Planner,AeroMax,19252.39,13352.56,Medium,Active
+PROD00225,Northstar Jacket,Fashion,Jacket,BrightNest,524.33,388.27,Low,Discontinued
+PROD00226,Vivid Marker Set,Books & Stationery,Marker Set,Everday,10792.24,5709.69,Low,Active
+PROD00227,CorePlus Textbook,Books & Stationery,Textbook,AeroMax,321.09,205.33,Low,Active
+PROD00228,Vivid Fitness Band,Sports & Outdoors,Fitness Band,UrbanLeaf,1417.79,993.03,Low,Active
+PROD00229,UrbanLeaf T-Shirt,Fashion,T-Shirt,Craftly,39068.22,20040.34,Low,Active
+PROD00230,CorePlus Dumbbells,Sports & Outdoors,Dumbbells,Everday,12926.9,6660.24,Medium,Active
+PROD00231,ZenWorks Water Bottle,Home & Kitchen,Water Bottle,BrightNest,234.66,185.94,Medium,Discontinued
+PROD00232,Vivid Watch,Fashion,Watch,ZenWorks,13645.35,11152.8,Medium,Discontinued
+PROD00233,Everday Face Wash,Beauty & Personal Care,Face Wash,Nova,2369.59,1406.61,Medium,Active
+PROD00234,PixelPeak Planner,Books & Stationery,Planner,Northstar,394.09,253.13,High,Active
+PROD00235,Craftly Notebook Pack,Books & Stationery,Notebook Pack,Vivid,248.44,188.41,Medium,Active
+PROD00236,Nova Dumbbells,Sports & Outdoors,Dumbbells,Nova,48918.99,34475.67,Medium,Discontinued
+PROD00237,CorePlus Wallet,Fashion,Wallet,Nova,45095.53,23876.84,Medium,Active
+PROD00238,Nova Water Bottle,Home & Kitchen,Water Bottle,AeroMax,66211.13,48012.73,High,Active
+PROD00239,Vivid Laptop,Electronics,Laptop,Everday,26698.47,15512.8,Medium,Active
+PROD00240,ZenWorks Jacket,Fashion,Jacket,AeroMax,176.2,142.0,Medium,Active
+PROD00241,CorePlus Bedsheet,Home & Kitchen,Bedsheet,Nova,832.9,672.96,High,Active
+PROD00242,ZenWorks Novel,Books & Stationery,Novel,BlueOrbit,7279.58,4876.04,Medium,Active
+PROD00243,BlueOrbit Handbag,Fashion,Handbag,Northstar,156.15,80.94,High,Active
+PROD00244,Craftly Coffee Maker,Home & Kitchen,Coffee Maker,BrightNest,23181.5,13454.05,Low,Discontinued
+PROD00245,PixelPeak Sunscreen,Beauty & Personal Care,Sunscreen,Nova,469.98,237.99,Low,Discontinued
+PROD00246,Northstar Dress,Fashion,Dress,AeroMax,353.7,259.01,Medium,Active
+PROD00247,CorePlus Mouse,Electronics,Mouse,CorePlus,1210.61,728.18,Medium,Active
+PROD00248,Craftly Trimmer,Beauty & Personal Care,Trimmer,BrightNest,754.95,618.45,Low,Active
+PROD00249,Everday Running Shoes,Sports & Outdoors,Running Shoes,BrightNest,15694.09,11134.98,Medium,Active
+PROD00250,PixelPeak Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,Craftly,4437.58,3114.02,High,Active
+PROD00251,Nova Mixer Grinder,Home & Kitchen,Mixer Grinder,Craftly,13510.97,9160.92,High,Active
+PROD00252,AeroMax Body Lotion,Beauty & Personal Care,Body Lotion,Northstar,750.43,442.97,High,Active
+PROD00253,BrightNest Moisturizer,Beauty & Personal Care,Moisturizer,Everday,352.2,182.01,High,Active
+PROD00254,CorePlus Smartphone,Electronics,Smartphone,AeroMax,38111.17,24737.19,Low,Active
+PROD00255,Northstar Trimmer,Beauty & Personal Care,Trimmer,BlueOrbit,29655.83,14443.2,Low,Active
+PROD00256,BrightNest Laptop,Electronics,Laptop,CorePlus,345.69,262.01,Low,Active
+PROD00257,PixelPeak Fitness Band,Sports & Outdoors,Fitness Band,AeroMax,520.1,415.53,High,Active
+PROD00258,Nova Jacket,Fashion,Jacket,PixelPeak,73806.1,58581.99,Low,Active
+PROD00259,AeroMax Sunscreen,Beauty & Personal Care,Sunscreen,Everday,23155.95,13843.75,Medium,Active
+PROD00260,Vivid Jeans,Fashion,Jeans,BlueOrbit,206.35,101.25,Medium,Active
+PROD00261,CorePlus Handbag,Fashion,Handbag,Nova,3828.4,2266.88,High,Active
+PROD00262,BlueOrbit Pillow,Home & Kitchen,Pillow,Everday,544.19,266.02,Medium,Discontinued
+PROD00263,Northstar Makeup Kit,Beauty & Personal Care,Makeup Kit,Vivid,1176.89,582.48,Medium,Discontinued
+PROD00264,Northstar Face Wash,Beauty & Personal Care,Face Wash,Vivid,3216.35,1839.59,Medium,Discontinued
+PROD00265,Nova Lipstick,Beauty & Personal Care,Lipstick,Everday,849.78,660.21,Medium,Active
+PROD00266,Nova Trimmer,Beauty & Personal Care,Trimmer,BrightNest,2464.17,1842.47,High,Discontinued
+PROD00267,BrightNest Monitor,Electronics,Monitor,CorePlus,638.89,328.93,Medium,Discontinued
+PROD00268,Craftly Jacket,Fashion,Jacket,CorePlus,438.1,299.45,Low,Active
+PROD00269,UrbanLeaf Perfume,Beauty & Personal Care,Perfume,PixelPeak,164.04,127.59,Medium,Discontinued
+PROD00270,CorePlus Sunglasses,Fashion,Sunglasses,CorePlus,4131.96,2721.01,Low,Active
+PROD00271,Everday Mouse,Electronics,Mouse,BlueOrbit,453.38,294.74,Medium,Active
+PROD00272,Nova Pillow,Home & Kitchen,Pillow,ZenWorks,2446.29,1280.83,High,Active
+PROD00273,BrightNest Coffee Maker,Home & Kitchen,Coffee Maker,Nova,212.44,128.26,Medium,Discontinued
+PROD00274,CorePlus Novel,Books & Stationery,Novel,Nova,373.02,271.55,High,Active
+PROD00275,AeroMax Smartphone,Electronics,Smartphone,UrbanLeaf,163.91,89.58,Low,Active
+PROD00276,BlueOrbit Running Shoes,Sports & Outdoors,Running Shoes,Northstar,176.83,108.25,Medium,Active
+PROD00277,ZenWorks Pen Set,Books & Stationery,Pen Set,Nova,17279.92,10508.08,High,Discontinued
+PROD00278,PixelPeak T-Shirt,Fashion,T-Shirt,UrbanLeaf,7376.07,4140.34,Medium,Active
+PROD00279,ZenWorks Handbag,Fashion,Handbag,Everday,18019.05,8918.05,Medium,Active
+PROD00280,Vivid Planner,Books & Stationery,Planner,Everday,32536.46,20140.19,High,Active
+PROD00281,UrbanLeaf Sunscreen,Beauty & Personal Care,Sunscreen,BrightNest,5007.41,4070.18,High,Active
+PROD00282,Nova Keyboard,Electronics,Keyboard,Northstar,42045.2,27889.73,Medium,Active
+PROD00283,ZenWorks Power Bank,Electronics,Power Bank,Everday,4583.37,2609.71,Low,Discontinued
+PROD00284,AeroMax Backpack,Fashion,Backpack,PixelPeak,7197.26,4950.97,Medium,Discontinued
+PROD00285,BrightNest Pillow,Home & Kitchen,Pillow,UrbanLeaf,173.88,110.27,Low,Active
+PROD00286,Vivid Sunscreen,Beauty & Personal Care,Sunscreen,BlueOrbit,990.94,487.81,Low,Active
+PROD00287,Nova Keyboard,Electronics,Keyboard,PixelPeak,179.59,99.0,Medium,Active
+PROD00288,Nova Monitor,Electronics,Monitor,Everday,242.16,140.15,High,Active
+PROD00289,Northstar Storage Box,Home & Kitchen,Storage Box,Everday,953.95,639.67,Medium,Active
+PROD00290,UrbanLeaf Dress,Fashion,Dress,Northstar,4680.93,3679.98,Low,Active
+PROD00291,PixelPeak Skipping Rope,Sports & Outdoors,Skipping Rope,Nova,10451.62,7392.9,Medium,Discontinued
+PROD00292,BrightNest Sunscreen,Beauty & Personal Care,Sunscreen,PixelPeak,289.06,210.41,High,Active
+PROD00293,Everday Cycling Helmet,Sports & Outdoors,Cycling Helmet,PixelPeak,310.56,208.47,High,Active
+PROD00294,BrightNest Textbook,Books & Stationery,Textbook,PixelPeak,1598.73,830.41,Medium,Active
+PROD00295,AeroMax Backpack,Fashion,Backpack,Northstar,30820.0,19004.9,High,Active
+PROD00296,Everday Lipstick,Beauty & Personal Care,Lipstick,AeroMax,10596.59,5751.44,Low,Active
+PROD00297,Everday Makeup Kit,Beauty & Personal Care,Makeup Kit,Northstar,1282.98,730.75,Low,Active
+PROD00298,UrbanLeaf Keyboard,Electronics,Keyboard,Everday,7916.48,5248.55,Low,Discontinued
+PROD00299,BrightNest Makeup Kit,Beauty & Personal Care,Makeup Kit,AeroMax,1333.29,839.06,High,Discontinued
+PROD00300,BrightNest Moisturizer,Beauty & Personal Care,Moisturizer,Nova,416.72,322.55,Medium,Active
+PROD00301,Vivid Cycling Helmet,Sports & Outdoors,Cycling Helmet,AeroMax,33129.86,18839.67,Medium,Discontinued
+PROD00302,CorePlus Wallet,Fashion,Wallet,Craftly,78073.89,51336.45,Medium,Discontinued
+PROD00303,ZenWorks Pen Set,Books & Stationery,Pen Set,PixelPeak,344.65,214.24,Low,Discontinued
+PROD00304,ZenWorks Desk Lamp,Home & Kitchen,Desk Lamp,AeroMax,841.14,420.2,Low,Active
+PROD00305,PixelPeak Sunscreen,Beauty & Personal Care,Sunscreen,Craftly,8501.64,4365.9,High,Active
+PROD00306,AeroMax Mixer Grinder,Home & Kitchen,Mixer Grinder,Nova,51831.42,39666.25,Low,Active
+PROD00307,Everday Handbag,Fashion,Handbag,Nova,210.14,128.31,High,Active
+PROD00308,Northstar Sneakers,Fashion,Sneakers,ZenWorks,408.99,263.94,High,Active
+PROD00309,ZenWorks Notebook Pack,Books & Stationery,Notebook Pack,ZenWorks,510.89,359.79,Medium,Discontinued
+PROD00310,BlueOrbit Desk Lamp,Home & Kitchen,Desk Lamp,CorePlus,263.25,160.48,Low,Active
+PROD00311,Craftly Desk Organizer,Books & Stationery,Desk Organizer,Northstar,177.02,117.24,Medium,Active
+PROD00312,PixelPeak Lipstick,Beauty & Personal Care,Lipstick,Craftly,525.84,390.8,Medium,Active
+PROD00313,ZenWorks Desk Lamp,Home & Kitchen,Desk Lamp,BlueOrbit,2005.98,1071.03,Medium,Active
+PROD00314,CorePlus Keyboard,Electronics,Keyboard,Northstar,40030.11,31358.54,Medium,Active
+PROD00315,Northstar Shampoo,Beauty & Personal Care,Shampoo,PixelPeak,15007.22,8679.16,High,Discontinued
+PROD00316,UrbanLeaf Power Bank,Electronics,Power Bank,BlueOrbit,1659.41,1097.87,Medium,Active
+PROD00317,Vivid Jeans,Fashion,Jeans,ZenWorks,1505.68,786.71,Medium,Active
+PROD00318,Vivid Smartwatch,Electronics,Smartwatch,PixelPeak,798.0,593.99,Low,Active
+PROD00319,PixelPeak Shampoo,Beauty & Personal Care,Shampoo,Northstar,35068.84,23194.06,Medium,Active
+PROD00320,AeroMax Notebook Pack,Books & Stationery,Notebook Pack,CorePlus,233.37,136.43,Medium,Active
+PROD00321,BrightNest Water Bottle,Home & Kitchen,Water Bottle,Vivid,5219.83,3071.08,Medium,Active
+PROD00322,ZenWorks Makeup Kit,Beauty & Personal Care,Makeup Kit,Nova,36356.11,26411.0,Medium,Active
+PROD00323,Nova Laptop,Electronics,Laptop,UrbanLeaf,72613.06,54326.72,High,Active
+PROD00324,BrightNest Makeup Kit,Beauty & Personal Care,Makeup Kit,BlueOrbit,215.87,130.99,High,Active
+PROD00325,Nova Dining Set,Home & Kitchen,Dining Set,CorePlus,1222.04,607.12,Medium,Discontinued
+PROD00326,Vivid Bedsheet,Home & Kitchen,Bedsheet,Nova,49885.95,30547.69,Low,Active
+PROD00327,CorePlus Power Bank,Electronics,Power Bank,AeroMax,178.06,136.69,Low,Active
+PROD00328,Craftly File Folder,Books & Stationery,File Folder,Northstar,193.29,148.0,Low,Discontinued
+PROD00329,Northstar Shampoo,Beauty & Personal Care,Shampoo,BrightNest,76624.21,49176.18,Low,Active
+PROD00330,AeroMax Smartwatch,Electronics,Smartwatch,CorePlus,5709.15,3791.64,Low,Active
+PROD00331,ZenWorks Shampoo,Beauty & Personal Care,Shampoo,UrbanLeaf,5278.66,2568.97,High,Active
+PROD00332,ZenWorks Camera,Electronics,Camera,Northstar,27516.2,19158.23,Low,Active
+PROD00333,Vivid Yoga Mat,Sports & Outdoors,Yoga Mat,Northstar,4693.22,3517.26,Low,Active
+PROD00334,UrbanLeaf Monitor,Electronics,Monitor,Craftly,69640.74,37243.91,Medium,Active
+PROD00335,Vivid File Folder,Books & Stationery,File Folder,CorePlus,1233.61,732.71,Medium,Active
+PROD00336,ZenWorks Smartphone,Electronics,Smartphone,Northstar,289.35,220.0,Medium,Active
+PROD00337,UrbanLeaf Waterproof Bag,Sports & Outdoors,Waterproof Bag,AeroMax,549.73,374.95,Low,Discontinued
+PROD00338,CorePlus Monitor,Electronics,Monitor,Craftly,314.57,233.98,Medium,Active
+PROD00339,BrightNest Hair Dryer,Beauty & Personal Care,Hair Dryer,UrbanLeaf,2023.4,1218.82,Low,Discontinued
+PROD00340,Everday Jacket,Fashion,Jacket,PixelPeak,368.31,244.47,Medium,Active
+PROD00341,AeroMax Shampoo,Beauty & Personal Care,Shampoo,BrightNest,4671.76,3366.19,Low,Active
+PROD00342,BrightNest Headphones,Electronics,Headphones,CorePlus,22745.95,17519.65,Medium,Discontinued
+PROD00343,CorePlus Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,CorePlus,1649.15,1184.55,Medium,Active
+PROD00344,ZenWorks Speaker,Electronics,Speaker,Vivid,394.51,320.12,Medium,Discontinued
+PROD00345,ZenWorks Watch,Fashion,Watch,PixelPeak,1225.62,887.0,High,Active
+PROD00346,BlueOrbit Keyboard,Electronics,Keyboard,ZenWorks,6203.25,3055.57,Medium,Active
+PROD00347,Vivid Moisturizer,Beauty & Personal Care,Moisturizer,UrbanLeaf,1101.43,639.79,Medium,Discontinued
+PROD00348,Northstar Desk Lamp,Home & Kitchen,Desk Lamp,Craftly,1076.14,833.37,High,Active
+PROD00349,CorePlus Dining Set,Home & Kitchen,Dining Set,BlueOrbit,21909.65,16157.28,Low,Active
+PROD00350,UrbanLeaf Pen Set,Books & Stationery,Pen Set,Vivid,10123.46,5351.69,Medium,Active
+PROD00351,PixelPeak Mouse,Electronics,Mouse,UrbanLeaf,10037.0,7581.82,High,Active
+PROD00352,Vivid Smartphone,Electronics,Smartphone,Northstar,9437.59,6084.85,Low,Active
+PROD00353,Everday Cricket Bat,Sports & Outdoors,Cricket Bat,Craftly,301.24,208.38,High,Discontinued
+PROD00354,CorePlus Cricket Bat,Sports & Outdoors,Cricket Bat,Everday,626.55,447.51,Low,Active
+PROD00355,BrightNest Water Bottle,Home & Kitchen,Water Bottle,BlueOrbit,3595.4,2875.43,Medium,Active
+PROD00356,UrbanLeaf Hair Dryer,Beauty & Personal Care,Hair Dryer,Northstar,45775.58,26589.07,Medium,Active
+PROD00357,Everday Water Bottle,Home & Kitchen,Water Bottle,AeroMax,8729.36,6218.21,Medium,Active
+PROD00358,Northstar Pillow,Home & Kitchen,Pillow,Everday,3257.63,1759.13,High,Active
+PROD00359,BrightNest File Folder,Books & Stationery,File Folder,Nova,31521.03,21402.84,Low,Discontinued
+PROD00360,Everday Jeans,Fashion,Jeans,ZenWorks,46170.27,27294.27,Medium,Active
+PROD00361,AeroMax Art Supplies,Books & Stationery,Art Supplies,PixelPeak,2513.08,1888.24,High,Discontinued
+PROD00362,ZenWorks Coffee Maker,Home & Kitchen,Coffee Maker,BrightNest,2238.4,1181.31,Medium,Discontinued
+PROD00363,Craftly Keyboard,Electronics,Keyboard,PixelPeak,427.12,332.28,Medium,Discontinued
+PROD00364,Vivid Speaker,Electronics,Speaker,Craftly,2537.68,1794.32,High,Active
+PROD00365,Craftly Dumbbells,Sports & Outdoors,Dumbbells,Northstar,35162.11,24360.49,Medium,Active
+PROD00366,ZenWorks Speaker,Electronics,Speaker,Everday,16644.89,10353.8,High,Discontinued
+PROD00367,Northstar Camera,Electronics,Camera,Everday,2520.91,1529.53,Medium,Active
+PROD00368,AeroMax Coffee Maker,Home & Kitchen,Coffee Maker,Vivid,3296.49,2243.77,Medium,Discontinued
+PROD00369,Everday Monitor,Electronics,Monitor,AeroMax,366.5,282.42,High,Active
+PROD00370,ZenWorks Storage Box,Home & Kitchen,Storage Box,Nova,12696.29,6862.7,Medium,Active
+PROD00371,Craftly Skipping Rope,Sports & Outdoors,Skipping Rope,PixelPeak,2060.02,1221.65,High,Active
+PROD00372,Nova Power Bank,Electronics,Power Bank,Vivid,4737.54,3383.59,Low,Active
+PROD00373,Nova Smartwatch,Electronics,Smartwatch,Everday,37215.57,22023.69,Low,Discontinued
+PROD00374,UrbanLeaf Planner,Books & Stationery,Planner,BrightNest,1457.17,783.15,High,Active
+PROD00375,CorePlus Watch,Fashion,Watch,ZenWorks,695.46,548.55,Medium,Active
+PROD00376,BrightNest Sunglasses,Fashion,Sunglasses,Craftly,23213.3,18139.53,Low,Active
+PROD00377,Craftly Mouse,Electronics,Mouse,BlueOrbit,53006.04,31485.08,Low,Discontinued
+PROD00378,ZenWorks Camping Tent,Sports & Outdoors,Camping Tent,UrbanLeaf,5197.34,3356.49,Medium,Active
+PROD00379,AeroMax Wallet,Fashion,Wallet,CorePlus,10023.99,6639.4,Medium,Discontinued
+PROD00380,BrightNest File Folder,Books & Stationery,File Folder,BrightNest,344.15,186.8,Medium,Discontinued
+PROD00381,Everday Makeup Kit,Beauty & Personal Care,Makeup Kit,UrbanLeaf,429.52,288.3,High,Active
+PROD00382,Northstar Marker Set,Books & Stationery,Marker Set,PixelPeak,663.02,418.95,Medium,Discontinued
+PROD00383,Craftly T-Shirt,Fashion,T-Shirt,UrbanLeaf,23838.24,14538.45,Medium,Active
+PROD00384,Nova Power Bank,Electronics,Power Bank,UrbanLeaf,1707.97,1296.01,Medium,Active
+PROD00385,Northstar Art Supplies,Books & Stationery,Art Supplies,ZenWorks,36954.48,25011.86,Medium,Active
+PROD00386,BlueOrbit Hair Dryer,Beauty & Personal Care,Hair Dryer,AeroMax,65265.26,41735.02,Medium,Active
+PROD00387,UrbanLeaf Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,Vivid,988.3,738.14,Medium,Active
+PROD00388,UrbanLeaf Art Supplies,Books & Stationery,Art Supplies,BrightNest,1670.78,851.42,Medium,Active
+PROD00389,BrightNest Jeans,Fashion,Jeans,Vivid,190.47,153.98,Low,Active
+PROD00390,Nova Backpack,Fashion,Backpack,AeroMax,1022.2,566.25,Low,Active
+PROD00391,Nova Skipping Rope,Sports & Outdoors,Skipping Rope,AeroMax,301.52,219.23,High,Discontinued
+PROD00392,Northstar Keyboard,Electronics,Keyboard,AeroMax,708.47,548.64,Low,Active
+PROD00393,Nova Dumbbells,Sports & Outdoors,Dumbbells,Vivid,15023.6,9758.47,Medium,Active
+PROD00394,AeroMax Pen Set,Books & Stationery,Pen Set,CorePlus,1114.94,727.53,Medium,Active
+PROD00395,BlueOrbit Sneakers,Fashion,Sneakers,UrbanLeaf,65871.99,48656.21,Low,Discontinued
+PROD00396,ZenWorks Football,Sports & Outdoors,Football,BlueOrbit,542.42,345.62,Medium,Discontinued
+PROD00397,Northstar Textbook,Books & Stationery,Textbook,BlueOrbit,17857.73,14330.54,Medium,Active
+PROD00398,Northstar Jeans,Fashion,Jeans,Nova,9090.93,5728.97,Medium,Discontinued
+PROD00399,Nova Power Bank,Electronics,Power Bank,ZenWorks,525.35,396.21,Medium,Discontinued
+PROD00400,Everday Storage Box,Home & Kitchen,Storage Box,CorePlus,2441.56,1872.66,Medium,Active
+PROD00401,Craftly Marker Set,Books & Stationery,Marker Set,BrightNest,13003.43,10579.59,Medium,Discontinued
+PROD00402,Vivid Perfume,Beauty & Personal Care,Perfume,Nova,12084.59,8132.37,Medium,Active
+PROD00403,Nova Textbook,Books & Stationery,Textbook,UrbanLeaf,32476.59,20497.19,Low,Active
+PROD00404,UrbanLeaf Cricket Bat,Sports & Outdoors,Cricket Bat,CorePlus,5013.41,3140.74,High,Active
+PROD00405,CorePlus T-Shirt,Fashion,T-Shirt,UrbanLeaf,5369.99,3261.13,High,Active
+PROD00406,AeroMax Jeans,Fashion,Jeans,AeroMax,19112.11,10267.18,Low,Discontinued
+PROD00407,PixelPeak Jacket,Fashion,Jacket,Vivid,1040.97,720.78,Medium,Discontinued
+PROD00408,ZenWorks Storage Box,Home & Kitchen,Storage Box,BlueOrbit,630.18,307.92,Medium,Discontinued
+PROD00409,BrightNest Fitness Band,Sports & Outdoors,Fitness Band,BlueOrbit,8307.32,6492.56,Medium,Active
+PROD00410,Vivid Cycling Helmet,Sports & Outdoors,Cycling Helmet,Craftly,28865.08,20480.98,Medium,Active
+PROD00411,Craftly Jacket,Fashion,Jacket,ZenWorks,9183.29,6620.64,Low,Discontinued
+PROD00412,Nova Camera,Electronics,Camera,Vivid,46227.81,24177.23,Low,Active
+PROD00413,CorePlus Desk Lamp,Home & Kitchen,Desk Lamp,BlueOrbit,172.03,114.25,Medium,Discontinued
+PROD00414,CorePlus Camera,Electronics,Camera,BlueOrbit,1154.33,557.7,High,Active
+PROD00415,Nova Football,Sports & Outdoors,Football,BrightNest,22323.99,10912.45,Medium,Active
+PROD00416,Craftly Wallet,Fashion,Wallet,Northstar,2789.26,2265.21,Low,Active
+PROD00417,BrightNest Trimmer,Beauty & Personal Care,Trimmer,Craftly,3693.37,2220.83,Low,Active
+PROD00418,Nova Yoga Mat,Sports & Outdoors,Yoga Mat,Northstar,766.86,511.01,Medium,Active
+PROD00419,ZenWorks Headphones,Electronics,Headphones,BrightNest,264.28,128.16,Medium,Active
+PROD00420,Nova Water Bottle,Home & Kitchen,Water Bottle,Vivid,71979.31,58170.99,Low,Active
+PROD00421,BrightNest Pillow,Home & Kitchen,Pillow,Northstar,7953.54,3871.42,High,Active
+PROD00422,PixelPeak Mouse,Electronics,Mouse,AeroMax,1479.6,747.68,Low,Active
+PROD00423,BrightNest T-Shirt,Fashion,T-Shirt,Northstar,184.93,129.58,Low,Discontinued
+PROD00424,ZenWorks Cookware Set,Home & Kitchen,Cookware Set,BlueOrbit,1661.38,993.76,Medium,Active
+PROD00425,CorePlus Coffee Maker,Home & Kitchen,Coffee Maker,BrightNest,23246.99,16110.47,Low,Active
+PROD00426,ZenWorks Hair Dryer,Beauty & Personal Care,Hair Dryer,AeroMax,797.4,555.89,Medium,Active
+PROD00427,PixelPeak Trimmer,Beauty & Personal Care,Trimmer,CorePlus,10832.05,7187.28,Medium,Active
+PROD00428,ZenWorks Desk Organizer,Books & Stationery,Desk Organizer,AeroMax,4635.48,2813.9,High,Active
+PROD00429,Craftly Cycling Helmet,Sports & Outdoors,Cycling Helmet,UrbanLeaf,1114.38,560.82,High,Active
+PROD00430,Northstar Wallet,Fashion,Wallet,ZenWorks,561.27,287.07,Medium,Discontinued
+PROD00431,PixelPeak Makeup Kit,Beauty & Personal Care,Makeup Kit,Craftly,21112.56,13862.73,High,Active
+PROD00432,PixelPeak Marker Set,Books & Stationery,Marker Set,AeroMax,27175.43,15738.63,Medium,Active
+PROD00433,Craftly Yoga Mat,Sports & Outdoors,Yoga Mat,PixelPeak,9450.16,6151.35,Medium,Active
+PROD00434,BlueOrbit Fitness Band,Sports & Outdoors,Fitness Band,AeroMax,2336.32,1253.75,High,Active
+PROD00435,Everday Sunglasses,Fashion,Sunglasses,ZenWorks,894.14,543.82,High,Discontinued
+PROD00436,AeroMax Art Supplies,Books & Stationery,Art Supplies,Vivid,871.21,672.59,High,Active
+PROD00437,BrightNest Face Wash,Beauty & Personal Care,Face Wash,ZenWorks,10951.35,8580.37,High,Discontinued
+PROD00438,Northstar Laptop,Electronics,Laptop,AeroMax,209.11,137.42,High,Active
+PROD00439,BrightNest Watch,Fashion,Watch,Everday,78410.55,57636.23,High,Active
+PROD00440,CorePlus Cookware Set,Home & Kitchen,Cookware Set,PixelPeak,383.9,250.85,Medium,Discontinued
+PROD00441,BrightNest Body Lotion,Beauty & Personal Care,Body Lotion,Northstar,6015.3,3878.97,Medium,Active
+PROD00442,Nova Football,Sports & Outdoors,Football,PixelPeak,858.8,688.45,Medium,Active
+PROD00443,ZenWorks Dumbbells,Sports & Outdoors,Dumbbells,BrightNest,178.8,109.86,Medium,Discontinued
+PROD00444,BlueOrbit Dress,Fashion,Dress,Craftly,16024.2,9782.07,Low,Active
+PROD00445,Vivid Sneakers,Fashion,Sneakers,AeroMax,26035.75,19607.17,High,Discontinued
+PROD00446,Northstar Notebook Pack,Books & Stationery,Notebook Pack,Everday,901.76,523.71,Low,Active
+PROD00447,Northstar Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,Craftly,2265.59,1384.18,Medium,Active
+PROD00448,AeroMax Pillow,Home & Kitchen,Pillow,Nova,9085.29,4423.85,Medium,Discontinued
+PROD00449,AeroMax Marker Set,Books & Stationery,Marker Set,Vivid,29660.12,21242.62,Low,Active
+PROD00450,Everday Waterproof Bag,Sports & Outdoors,Waterproof Bag,Northstar,18384.45,14310.54,Medium,Active
+PROD00451,AeroMax Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,AeroMax,977.1,693.9,Medium,Active
+PROD00452,ZenWorks Novel,Books & Stationery,Novel,Nova,4532.44,3024.5,Medium,Active
+PROD00453,UrbanLeaf Laptop,Electronics,Laptop,BrightNest,954.88,748.46,Low,Active
+PROD00454,Northstar Power Bank,Electronics,Power Bank,UrbanLeaf,6004.15,3148.48,Medium,Active
+PROD00455,Nova Hair Dryer,Beauty & Personal Care,Hair Dryer,UrbanLeaf,1902.73,1518.46,Low,Active
+PROD00456,CorePlus Smartphone,Electronics,Smartphone,ZenWorks,695.77,347.64,High,Discontinued
+PROD00457,AeroMax Coffee Maker,Home & Kitchen,Coffee Maker,AeroMax,8384.91,4771.51,Medium,Active
+PROD00458,Everday Lipstick,Beauty & Personal Care,Lipstick,CorePlus,27911.72,18032.4,Medium,Active
+PROD00459,PixelPeak Perfume,Beauty & Personal Care,Perfume,Everday,24166.76,16457.72,Low,Active
+PROD00460,ZenWorks Art Supplies,Books & Stationery,Art Supplies,ZenWorks,5978.5,3616.98,Medium,Active
+PROD00461,ZenWorks Bedsheet,Home & Kitchen,Bedsheet,UrbanLeaf,8255.93,5692.3,Medium,Discontinued
+PROD00462,PixelPeak Notebook Pack,Books & Stationery,Notebook Pack,AeroMax,4075.02,2213.94,Low,Active
+PROD00463,PixelPeak Smartwatch,Electronics,Smartwatch,AeroMax,32441.92,20718.49,High,Active
+PROD00464,AeroMax Monitor,Electronics,Monitor,UrbanLeaf,202.28,127.03,Medium,Active
+PROD00465,CorePlus Camping Tent,Sports & Outdoors,Camping Tent,Vivid,9549.42,7464.91,High,Active
+PROD00466,Nova Watch,Fashion,Watch,Nova,2211.57,1381.98,Low,Active
+PROD00467,UrbanLeaf Football,Sports & Outdoors,Football,AeroMax,44216.88,29411.29,Medium,Active
+PROD00468,CorePlus Notebook Pack,Books & Stationery,Notebook Pack,CorePlus,61714.65,49554.99,Medium,Active
+PROD00469,Nova Sneakers,Fashion,Sneakers,Craftly,43764.21,28833.98,Medium,Active
+PROD00470,Craftly Laptop,Electronics,Laptop,ZenWorks,15869.88,12281.16,Low,Discontinued
+PROD00471,CorePlus File Folder,Books & Stationery,File Folder,Nova,42996.26,29514.56,High,Discontinued
+PROD00472,UrbanLeaf Cricket Bat,Sports & Outdoors,Cricket Bat,Vivid,20270.32,13242.73,Low,Discontinued
+PROD00473,PixelPeak Cycling Helmet,Sports & Outdoors,Cycling Helmet,PixelPeak,37514.89,26177.86,Medium,Active
+PROD00474,PixelPeak Cricket Bat,Sports & Outdoors,Cricket Bat,BlueOrbit,9552.12,5887.04,Low,Active
+PROD00475,UrbanLeaf Pillow,Home & Kitchen,Pillow,ZenWorks,19394.06,15719.99,Medium,Active
+PROD00476,PixelPeak Headphones,Electronics,Headphones,Northstar,522.57,293.57,Medium,Active
+PROD00477,ZenWorks Laptop,Electronics,Laptop,UrbanLeaf,3185.74,2479.7,Low,Active
+PROD00478,UrbanLeaf Running Shoes,Sports & Outdoors,Running Shoes,AeroMax,1111.87,651.49,Medium,Discontinued
+PROD00479,ZenWorks File Folder,Books & Stationery,File Folder,BlueOrbit,840.7,442.18,High,Active
+PROD00480,AeroMax Face Wash,Beauty & Personal Care,Face Wash,CorePlus,25446.01,19525.23,High,Active
+PROD00481,Vivid Backpack,Fashion,Backpack,Northstar,8589.89,4842.27,High,Active
+PROD00482,UrbanLeaf Bedsheet,Home & Kitchen,Bedsheet,Everday,2426.81,1638.35,High,Active
+PROD00483,ZenWorks Pillow,Home & Kitchen,Pillow,BrightNest,65321.58,35409.51,Low,Active
+PROD00484,Craftly Cricket Bat,Sports & Outdoors,Cricket Bat,Nova,1660.85,1032.62,Low,Active
+PROD00485,CorePlus Jacket,Fashion,Jacket,AeroMax,23209.88,14527.97,Medium,Active
+PROD00486,UrbanLeaf Storage Box,Home & Kitchen,Storage Box,Everday,4286.91,2958.32,Medium,Active
+PROD00487,Nova Sticky Notes,Books & Stationery,Sticky Notes,Craftly,25265.48,14689.98,High,Active
+PROD00488,Northstar Body Lotion,Beauty & Personal Care,Body Lotion,BrightNest,364.08,265.99,Medium,Active
+PROD00489,PixelPeak Handbag,Fashion,Handbag,ZenWorks,4626.81,2510.75,High,Active
+PROD00490,AeroMax Face Wash,Beauty & Personal Care,Face Wash,PixelPeak,2163.39,1448.07,Medium,Active
+PROD00491,Northstar Waterproof Bag,Sports & Outdoors,Waterproof Bag,Everday,218.16,149.71,Low,Discontinued
+PROD00492,Vivid Keyboard,Electronics,Keyboard,ZenWorks,51201.96,34679.89,Medium,Discontinued
+PROD00493,Vivid T-Shirt,Fashion,T-Shirt,ZenWorks,29183.29,16682.52,Medium,Active
+PROD00494,Vivid Jacket,Fashion,Jacket,Everday,3330.01,1664.24,High,Active
+PROD00495,BrightNest Bedsheet,Home & Kitchen,Bedsheet,AeroMax,11456.17,7174.31,High,Active
+PROD00496,CorePlus Laptop,Electronics,Laptop,ZenWorks,254.52,183.46,High,Active
+PROD00497,UrbanLeaf Trimmer,Beauty & Personal Care,Trimmer,Craftly,195.57,140.56,Medium,Active
+PROD00498,Vivid File Folder,Books & Stationery,File Folder,CorePlus,3277.64,1573.83,Medium,Active
+PROD00499,UrbanLeaf Water Bottle,Home & Kitchen,Water Bottle,Everday,2931.42,1817.9,Low,Active
+PROD00500,Nova Mouse,Electronics,Mouse,BrightNest,674.4,335.25,Medium,Discontinued
+PROD00501,Everday Art Supplies,Books & Stationery,Art Supplies,AeroMax,988.63,772.89,High,Active
+PROD00502,AeroMax Trimmer,Beauty & Personal Care,Trimmer,Nova,259.57,186.71,Medium,Active
+PROD00503,PixelPeak Dining Set,Home & Kitchen,Dining Set,Everday,215.84,113.54,Low,Discontinued
+PROD00504,Vivid Trimmer,Beauty & Personal Care,Trimmer,Vivid,2895.76,1941.44,Medium,Active
+PROD00505,CorePlus Dining Set,Home & Kitchen,Dining Set,Northstar,236.77,178.73,Medium,Active
+PROD00506,Nova Waterproof Bag,Sports & Outdoors,Waterproof Bag,PixelPeak,1095.12,867.29,High,Discontinued
+PROD00507,UrbanLeaf Lipstick,Beauty & Personal Care,Lipstick,Everday,346.04,279.09,High,Active
+PROD00508,Northstar Shampoo,Beauty & Personal Care,Shampoo,BrightNest,747.8,452.5,High,Active
+PROD00509,BrightNest Storage Box,Home & Kitchen,Storage Box,AeroMax,225.11,113.69,High,Active
+PROD00510,Everday Power Bank,Electronics,Power Bank,ZenWorks,15910.74,9306.64,Medium,Active
+PROD00511,Everday Mixer Grinder,Home & Kitchen,Mixer Grinder,Northstar,198.22,147.84,Medium,Discontinued
+PROD00512,Nova Marker Set,Books & Stationery,Marker Set,ZenWorks,9702.7,5740.78,Medium,Active
+PROD00513,Everday Face Wash,Beauty & Personal Care,Face Wash,Nova,31609.37,23725.35,Medium,Discontinued
+PROD00514,BrightNest Handbag,Fashion,Handbag,Everday,667.33,341.26,Medium,Active
+PROD00515,Craftly Pillow,Home & Kitchen,Pillow,Northstar,4551.98,3025.68,High,Active
+PROD00516,Everday Shampoo,Beauty & Personal Care,Shampoo,Vivid,646.49,338.0,High,Active
+PROD00517,ZenWorks Camera,Electronics,Camera,Vivid,2142.28,1147.34,Medium,Active
+PROD00518,UrbanLeaf Handbag,Fashion,Handbag,UrbanLeaf,7352.96,4190.85,High,Active
+PROD00519,CorePlus Bedsheet,Home & Kitchen,Bedsheet,ZenWorks,1097.46,703.29,Medium,Active
+PROD00520,Craftly Smartwatch,Electronics,Smartwatch,BlueOrbit,47937.66,33524.8,Medium,Active
+PROD00521,Vivid Handbag,Fashion,Handbag,Craftly,240.98,134.91,Medium,Active
+PROD00522,Northstar File Folder,Books & Stationery,File Folder,PixelPeak,449.11,340.83,High,Discontinued
+PROD00523,BlueOrbit Speaker,Electronics,Speaker,Everday,458.53,242.02,Medium,Discontinued
+PROD00524,UrbanLeaf Desk Lamp,Home & Kitchen,Desk Lamp,PixelPeak,1738.28,1000.15,High,Discontinued
+PROD00525,AeroMax Body Lotion,Beauty & Personal Care,Body Lotion,BrightNest,5683.45,3757.0,Low,Active
+PROD00526,AeroMax Dress,Fashion,Dress,ZenWorks,3712.52,2006.23,High,Active
+PROD00527,UrbanLeaf Moisturizer,Beauty & Personal Care,Moisturizer,Everday,7826.79,5732.95,Medium,Discontinued
+PROD00528,BlueOrbit Desk Lamp,Home & Kitchen,Desk Lamp,Northstar,13350.61,9711.0,Medium,Active
+PROD00529,Vivid Moisturizer,Beauty & Personal Care,Moisturizer,Northstar,364.84,273.35,High,Active
+PROD00530,Vivid Camping Tent,Sports & Outdoors,Camping Tent,Craftly,384.25,200.52,High,Active
+PROD00531,BlueOrbit Wallet,Fashion,Wallet,UrbanLeaf,173.37,135.3,High,Discontinued
+PROD00532,ZenWorks Moisturizer,Beauty & Personal Care,Moisturizer,PixelPeak,1028.88,777.54,Medium,Active
+PROD00533,BlueOrbit Lipstick,Beauty & Personal Care,Lipstick,BlueOrbit,491.89,336.98,Medium,Discontinued
+PROD00534,BlueOrbit Fitness Band,Sports & Outdoors,Fitness Band,Northstar,8295.27,5030.79,Low,Discontinued
+PROD00535,UrbanLeaf Pillow,Home & Kitchen,Pillow,Nova,27786.83,15541.29,High,Active
+PROD00536,UrbanLeaf Water Bottle,Home & Kitchen,Water Bottle,ZenWorks,19406.89,13441.54,Low,Active
+PROD00537,Vivid Makeup Kit,Beauty & Personal Care,Makeup Kit,CorePlus,38083.22,19437.17,Medium,Active
+PROD00538,Everday Novel,Books & Stationery,Novel,BlueOrbit,2419.22,1320.51,Low,Active
+PROD00539,Craftly Camping Tent,Sports & Outdoors,Camping Tent,PixelPeak,8989.51,5728.17,Medium,Active
+PROD00540,UrbanLeaf Jeans,Fashion,Jeans,CorePlus,67414.98,47101.89,Low,Active
+PROD00541,UrbanLeaf Marker Set,Books & Stationery,Marker Set,BlueOrbit,496.51,346.24,Medium,Active
+PROD00542,CorePlus Monitor,Electronics,Monitor,CorePlus,244.32,180.32,Medium,Active
+PROD00543,Nova File Folder,Books & Stationery,File Folder,Vivid,514.02,382.23,Low,Active
+PROD00544,AeroMax Skipping Rope,Sports & Outdoors,Skipping Rope,BlueOrbit,883.58,662.48,Medium,Active
+PROD00545,Northstar Water Bottle,Home & Kitchen,Water Bottle,AeroMax,53822.04,41127.28,Low,Active
+PROD00546,Everday Speaker,Electronics,Speaker,Vivid,55084.46,37118.61,Medium,Active
+PROD00547,PixelPeak Desk Lamp,Home & Kitchen,Desk Lamp,Vivid,3756.26,2686.92,Medium,Active
+PROD00548,CorePlus T-Shirt,Fashion,T-Shirt,PixelPeak,34763.39,26498.61,High,Active
+PROD00549,Vivid Dress,Fashion,Dress,Nova,431.77,342.16,Medium,Active
+PROD00550,CorePlus Marker Set,Books & Stationery,Marker Set,CorePlus,67316.89,39838.47,Medium,Active
+PROD00551,AeroMax Sticky Notes,Books & Stationery,Sticky Notes,BlueOrbit,7149.71,5342.88,Low,Discontinued
+PROD00552,Everday Headphones,Electronics,Headphones,CorePlus,23292.3,12508.38,Medium,Active
+PROD00553,ZenWorks Bedsheet,Home & Kitchen,Bedsheet,CorePlus,866.03,622.79,High,Active
+PROD00554,ZenWorks Football,Sports & Outdoors,Football,AeroMax,246.25,163.45,Low,Active
+PROD00555,Everday Shampoo,Beauty & Personal Care,Shampoo,CorePlus,5357.86,4121.1,Low,Active
+PROD00556,Everday Laptop,Electronics,Laptop,CorePlus,21461.58,15089.82,Low,Active
+PROD00557,BrightNest Smartwatch,Electronics,Smartwatch,PixelPeak,2790.72,1459.41,Low,Discontinued
+PROD00558,Nova Fitness Band,Sports & Outdoors,Fitness Band,CorePlus,466.69,237.99,High,Active
+PROD00559,UrbanLeaf Skipping Rope,Sports & Outdoors,Skipping Rope,BrightNest,2866.17,2286.03,High,Active
+PROD00560,Nova Trimmer,Beauty & Personal Care,Trimmer,CorePlus,37148.7,18169.17,Medium,Active
+PROD00561,AeroMax Fitness Band,Sports & Outdoors,Fitness Band,Northstar,248.07,141.32,Medium,Discontinued
+PROD00562,BlueOrbit Lipstick,Beauty & Personal Care,Lipstick,CorePlus,428.08,276.9,High,Active
+PROD00563,AeroMax Camera,Electronics,Camera,UrbanLeaf,197.85,137.0,High,Active
+PROD00564,AeroMax Hair Dryer,Beauty & Personal Care,Hair Dryer,PixelPeak,1983.3,1065.77,High,Active
+PROD00565,CorePlus Makeup Kit,Beauty & Personal Care,Makeup Kit,Everday,10517.46,7801.74,Low,Active
+PROD00566,Northstar Camera,Electronics,Camera,Vivid,15524.32,9241.22,Medium,Active
+PROD00567,PixelPeak Headphones,Electronics,Headphones,Northstar,10364.99,6914.64,Low,Discontinued
+PROD00568,Vivid Cricket Bat,Sports & Outdoors,Cricket Bat,AeroMax,591.24,330.25,Medium,Active
+PROD00569,CorePlus Water Bottle,Home & Kitchen,Water Bottle,Everday,200.86,143.94,High,Active
+PROD00570,CorePlus Handbag,Fashion,Handbag,Craftly,2864.13,1819.69,Medium,Active
+PROD00571,Everday Dress,Fashion,Dress,Vivid,3783.02,2931.61,Medium,Active
+PROD00572,BlueOrbit Pillow,Home & Kitchen,Pillow,Everday,5935.56,4761.54,High,Active
+PROD00573,AeroMax Cricket Bat,Sports & Outdoors,Cricket Bat,BlueOrbit,183.34,107.75,Low,Discontinued
+PROD00574,Vivid Smartwatch,Electronics,Smartwatch,PixelPeak,1907.45,1116.97,Medium,Active
+PROD00575,Craftly Watch,Fashion,Watch,AeroMax,1673.19,829.65,Medium,Discontinued
+PROD00576,Vivid Dining Set,Home & Kitchen,Dining Set,Craftly,1467.72,936.84,Medium,Active
+PROD00577,UrbanLeaf Power Bank,Electronics,Power Bank,ZenWorks,12196.85,9206.45,Medium,Active
+PROD00578,Nova Headphones,Electronics,Headphones,Nova,270.85,174.14,High,Active
+PROD00579,Vivid Dining Set,Home & Kitchen,Dining Set,Everday,3323.91,1882.45,High,Active
+PROD00580,Craftly Moisturizer,Beauty & Personal Care,Moisturizer,Northstar,180.04,88.66,Medium,Discontinued
+PROD00581,Nova Pen Set,Books & Stationery,Pen Set,Nova,1171.17,838.23,Medium,Active
+PROD00582,Nova Power Bank,Electronics,Power Bank,Nova,1367.01,711.42,Low,Active
+PROD00583,PixelPeak Desk Lamp,Home & Kitchen,Desk Lamp,Vivid,486.14,288.95,Medium,Active
+PROD00584,Everday Watch,Fashion,Watch,AeroMax,2647.76,1527.34,Medium,Discontinued
+PROD00585,BrightNest Sneakers,Fashion,Sneakers,UrbanLeaf,168.04,119.38,Medium,Active
+PROD00586,UrbanLeaf Mixer Grinder,Home & Kitchen,Mixer Grinder,Nova,1910.4,1394.46,Medium,Active
+PROD00587,Nova Running Shoes,Sports & Outdoors,Running Shoes,Everday,579.86,474.11,High,Active
+PROD00588,ZenWorks Keyboard,Electronics,Keyboard,UrbanLeaf,5767.66,4168.57,Medium,Discontinued
+PROD00589,Craftly Smartwatch,Electronics,Smartwatch,BrightNest,11655.96,8323.87,High,Active
+PROD00590,Nova Hair Dryer,Beauty & Personal Care,Hair Dryer,BlueOrbit,5805.25,2843.6,Low,Active
+PROD00591,ZenWorks Speaker,Electronics,Speaker,CorePlus,2264.79,1597.86,High,Active
+PROD00592,AeroMax Camping Tent,Sports & Outdoors,Camping Tent,Craftly,19186.89,11619.69,Medium,Active
+PROD00593,UrbanLeaf Body Lotion,Beauty & Personal Care,Body Lotion,Craftly,16421.9,9966.27,Low,Active
+PROD00594,UrbanLeaf Makeup Kit,Beauty & Personal Care,Makeup Kit,BlueOrbit,210.42,102.69,Low,Discontinued
+PROD00595,CorePlus Keyboard,Electronics,Keyboard,UrbanLeaf,18025.66,12010.73,Low,Active
+PROD00596,BrightNest Power Bank,Electronics,Power Bank,Craftly,31900.23,21406.91,Medium,Active
+PROD00597,AeroMax Textbook,Books & Stationery,Textbook,Craftly,34381.34,21810.6,High,Active
+PROD00598,Everday T-Shirt,Fashion,T-Shirt,ZenWorks,14240.91,10802.69,High,Active
+PROD00599,PixelPeak Speaker,Electronics,Speaker,CorePlus,430.95,300.87,Medium,Active
+PROD00600,AeroMax Backpack,Fashion,Backpack,Craftly,12881.22,6356.28,Medium,Discontinued
+PROD00601,Nova Perfume,Beauty & Personal Care,Perfume,PixelPeak,730.16,504.04,High,Discontinued
+PROD00602,AeroMax Camping Tent,Sports & Outdoors,Camping Tent,Nova,73798.29,58563.7,Low,Active
+PROD00603,Craftly Dress,Fashion,Dress,ZenWorks,6604.91,4055.11,Medium,Active
+PROD00604,Northstar Shampoo,Beauty & Personal Care,Shampoo,BrightNest,219.12,142.34,Medium,Active
+PROD00605,Everday Shampoo,Beauty & Personal Care,Shampoo,PixelPeak,42019.41,33173.8,Medium,Active
+PROD00606,UrbanLeaf Coffee Maker,Home & Kitchen,Coffee Maker,CorePlus,655.41,517.11,High,Active
+PROD00607,Everday Moisturizer,Beauty & Personal Care,Moisturizer,Everday,15445.55,9474.97,High,Active
+PROD00608,Everday Mouse,Electronics,Mouse,BrightNest,23312.14,12229.56,High,Active
+PROD00609,AeroMax Cricket Bat,Sports & Outdoors,Cricket Bat,BrightNest,191.28,154.54,Medium,Discontinued
+PROD00610,Vivid Yoga Mat,Sports & Outdoors,Yoga Mat,BrightNest,8710.01,5203.23,Medium,Active
+PROD00611,Vivid Textbook,Books & Stationery,Textbook,Northstar,765.62,431.45,High,Active
+PROD00612,Vivid Sticky Notes,Books & Stationery,Sticky Notes,Craftly,352.75,259.46,Medium,Active
+PROD00613,Vivid Jeans,Fashion,Jeans,UrbanLeaf,379.35,212.54,Medium,Active
+PROD00614,CorePlus File Folder,Books & Stationery,File Folder,ZenWorks,35027.21,23954.51,High,Active
+PROD00615,BrightNest Art Supplies,Books & Stationery,Art Supplies,Nova,153.49,104.79,High,Active
+PROD00616,ZenWorks Football,Sports & Outdoors,Football,PixelPeak,465.27,299.8,Medium,Discontinued
+PROD00617,PixelPeak Laptop,Electronics,Laptop,ZenWorks,270.11,199.64,Medium,Discontinued
+PROD00618,Everday Running Shoes,Sports & Outdoors,Running Shoes,Everday,27341.64,16673.82,Medium,Discontinued
+PROD00619,Northstar Pillow,Home & Kitchen,Pillow,Vivid,8051.48,6423.89,Low,Active
+PROD00620,PixelPeak Pen Set,Books & Stationery,Pen Set,ZenWorks,9057.67,6014.72,Medium,Active
+PROD00621,Nova Storage Box,Home & Kitchen,Storage Box,Vivid,1380.41,978.79,Medium,Active
+PROD00622,UrbanLeaf Art Supplies,Books & Stationery,Art Supplies,UrbanLeaf,34972.31,18827.09,Medium,Discontinued
+PROD00623,Northstar T-Shirt,Fashion,T-Shirt,Northstar,16157.54,12968.91,Medium,Active
+PROD00624,CorePlus Yoga Mat,Sports & Outdoors,Yoga Mat,UrbanLeaf,6397.18,4796.86,Low,Active
+PROD00625,ZenWorks Smartphone,Electronics,Smartphone,CorePlus,2709.73,1579.52,Low,Active
+PROD00626,BlueOrbit Sticky Notes,Books & Stationery,Sticky Notes,Northstar,38164.21,18944.59,Medium,Active
+PROD00627,Vivid File Folder,Books & Stationery,File Folder,ZenWorks,76167.88,55662.16,Low,Discontinued
+PROD00628,BlueOrbit Running Shoes,Sports & Outdoors,Running Shoes,UrbanLeaf,60296.26,33205.47,Low,Active
+PROD00629,BrightNest File Folder,Books & Stationery,File Folder,Everday,55791.74,33478.18,Medium,Active
+PROD00630,AeroMax Monitor,Electronics,Monitor,Nova,10438.83,6506.29,High,Active
+PROD00631,CorePlus Sneakers,Fashion,Sneakers,BrightNest,16909.41,12449.57,Low,Active
+PROD00632,Vivid Desk Organizer,Books & Stationery,Desk Organizer,PixelPeak,200.28,111.96,High,Active
+PROD00633,Everday Headphones,Electronics,Headphones,Everday,67774.5,38836.8,Low,Discontinued
+PROD00634,BrightNest Speaker,Electronics,Speaker,Vivid,71474.64,58208.81,High,Active
+PROD00635,CorePlus Dumbbells,Sports & Outdoors,Dumbbells,UrbanLeaf,2087.69,1371.3,Medium,Active
+PROD00636,CorePlus Wallet,Fashion,Wallet,Craftly,687.12,551.71,High,Active
+PROD00637,AeroMax Dress,Fashion,Dress,Craftly,2748.59,1371.46,Low,Discontinued
+PROD00638,BlueOrbit Cricket Bat,Sports & Outdoors,Cricket Bat,UrbanLeaf,31806.17,20334.44,Medium,Active
+PROD00639,CorePlus Dress,Fashion,Dress,ZenWorks,1820.96,1322.83,Low,Active
+PROD00640,PixelPeak Textbook,Books & Stationery,Textbook,Northstar,9745.72,6114.19,Medium,Discontinued
+PROD00641,CorePlus Cricket Bat,Sports & Outdoors,Cricket Bat,Craftly,4699.64,3789.48,Medium,Active
+PROD00642,BrightNest Dress,Fashion,Dress,BrightNest,1801.76,1459.23,Medium,Active
+PROD00643,Northstar Cycling Helmet,Sports & Outdoors,Cycling Helmet,Vivid,26160.85,21389.99,Low,Active
+PROD00644,ZenWorks Dumbbells,Sports & Outdoors,Dumbbells,PixelPeak,6160.24,4101.69,Medium,Discontinued
+PROD00645,BlueOrbit Headphones,Electronics,Headphones,Nova,23932.48,14308.58,Medium,Discontinued
+PROD00646,ZenWorks Waterproof Bag,Sports & Outdoors,Waterproof Bag,CorePlus,207.47,166.41,Medium,Discontinued
+PROD00647,Everday Fitness Band,Sports & Outdoors,Fitness Band,CorePlus,64935.05,35357.4,Low,Active
+PROD00648,Everday Coffee Maker,Home & Kitchen,Coffee Maker,UrbanLeaf,162.77,105.51,Low,Active
+PROD00649,PixelPeak Jacket,Fashion,Jacket,CorePlus,3990.54,3029.26,High,Active
+PROD00650,Vivid Desk Lamp,Home & Kitchen,Desk Lamp,BlueOrbit,15984.58,12140.75,Medium,Active
+PROD00651,Craftly Lipstick,Beauty & Personal Care,Lipstick,AeroMax,3552.01,2710.86,Medium,Discontinued
+PROD00652,ZenWorks Sunglasses,Fashion,Sunglasses,UrbanLeaf,181.15,115.99,Low,Active
+PROD00653,Craftly Coffee Maker,Home & Kitchen,Coffee Maker,Northstar,1174.88,633.35,Low,Discontinued
+PROD00654,Craftly Sunglasses,Fashion,Sunglasses,Vivid,70881.51,51123.94,Low,Active
+PROD00655,Vivid Camping Tent,Sports & Outdoors,Camping Tent,PixelPeak,61491.58,30645.43,Low,Active
+PROD00656,AeroMax Speaker,Electronics,Speaker,AeroMax,6113.1,3701.37,Medium,Active
+PROD00657,Everday Cookware Set,Home & Kitchen,Cookware Set,ZenWorks,424.74,227.29,High,Discontinued
+PROD00658,Northstar Hair Dryer,Beauty & Personal Care,Hair Dryer,ZenWorks,4109.6,2667.07,Medium,Discontinued
+PROD00659,AeroMax Jeans,Fashion,Jeans,BrightNest,291.62,201.3,Low,Active
+PROD00660,Nova Novel,Books & Stationery,Novel,BrightNest,10812.38,8019.37,High,Active
+PROD00661,Northstar Waterproof Bag,Sports & Outdoors,Waterproof Bag,BlueOrbit,34437.39,26853.61,Low,Active
+PROD00662,Northstar Pillow,Home & Kitchen,Pillow,BrightNest,6048.66,3330.28,Medium,Discontinued
+PROD00663,BlueOrbit Pen Set,Books & Stationery,Pen Set,PixelPeak,18405.95,9779.14,Medium,Discontinued
+PROD00664,Vivid Wallet,Fashion,Wallet,ZenWorks,389.49,261.11,Medium,Active
+PROD00665,Everday Pillow,Home & Kitchen,Pillow,Craftly,4764.25,2819.47,High,Discontinued
+PROD00666,Nova Trimmer,Beauty & Personal Care,Trimmer,Nova,2414.77,1717.32,High,Active
+PROD00667,Everday T-Shirt,Fashion,T-Shirt,Nova,15129.39,10208.96,Low,Active
+PROD00668,UrbanLeaf Cycling Helmet,Sports & Outdoors,Cycling Helmet,Vivid,8398.31,5155.4,Medium,Discontinued
+PROD00669,Nova Wallet,Fashion,Wallet,Northstar,929.27,481.39,High,Active
+PROD00670,Northstar Dress,Fashion,Dress,AeroMax,216.15,129.11,Low,Active
+PROD00671,Vivid Textbook,Books & Stationery,Textbook,Everday,5481.22,4411.63,Medium,Active
+PROD00672,AeroMax Textbook,Books & Stationery,Textbook,AeroMax,24508.67,17411.83,High,Discontinued
+PROD00673,CorePlus Smartwatch,Electronics,Smartwatch,BrightNest,30274.24,19035.87,Low,Active
+PROD00674,Everday Jacket,Fashion,Jacket,PixelPeak,41696.28,32338.05,Low,Active
+PROD00675,CorePlus Art Supplies,Books & Stationery,Art Supplies,AeroMax,9053.22,6338.54,Medium,Discontinued
+PROD00676,ZenWorks Pen Set,Books & Stationery,Pen Set,UrbanLeaf,9017.17,4560.89,Medium,Active
+PROD00677,Nova Moisturizer,Beauty & Personal Care,Moisturizer,Craftly,48912.47,26540.83,Medium,Active
+PROD00678,UrbanLeaf Trimmer,Beauty & Personal Care,Trimmer,CorePlus,4486.39,3185.48,Medium,Discontinued
+PROD00679,UrbanLeaf Bedsheet,Home & Kitchen,Bedsheet,CorePlus,38671.8,26919.04,Medium,Active
+PROD00680,AeroMax Textbook,Books & Stationery,Textbook,UrbanLeaf,5026.72,2956.93,High,Active
+PROD00681,Northstar Body Lotion,Beauty & Personal Care,Body Lotion,ZenWorks,216.09,155.24,Low,Active
+PROD00682,ZenWorks Camping Tent,Sports & Outdoors,Camping Tent,BrightNest,165.69,106.96,Medium,Active
+PROD00683,Craftly Laptop,Electronics,Laptop,CorePlus,14362.52,7405.72,Low,Active
+PROD00684,PixelPeak Waterproof Bag,Sports & Outdoors,Waterproof Bag,UrbanLeaf,2244.35,1818.45,High,Active
+PROD00685,Vivid Speaker,Electronics,Speaker,ZenWorks,20171.19,10322.68,High,Active
+PROD00686,AeroMax Sunscreen,Beauty & Personal Care,Sunscreen,Vivid,2217.36,1293.51,Medium,Active
+PROD00687,ZenWorks Running Shoes,Sports & Outdoors,Running Shoes,Nova,7848.92,4704.94,Low,Active
+PROD00688,Northstar Marker Set,Books & Stationery,Marker Set,AeroMax,3290.85,2515.8,Medium,Active
+PROD00689,BlueOrbit Art Supplies,Books & Stationery,Art Supplies,Everday,576.97,437.54,Low,Discontinued
+PROD00690,ZenWorks Cookware Set,Home & Kitchen,Cookware Set,Northstar,6660.03,4927.9,Medium,Active
+PROD00691,Craftly Bedsheet,Home & Kitchen,Bedsheet,Northstar,7018.05,4291.29,High,Active
+PROD00692,BlueOrbit Cricket Bat,Sports & Outdoors,Cricket Bat,CorePlus,334.29,234.35,Low,Active
+PROD00693,CorePlus Smartphone,Electronics,Smartphone,CorePlus,1299.32,836.67,Low,Active
+PROD00694,Craftly Camera,Electronics,Camera,Northstar,14415.81,10744.3,Medium,Discontinued
+PROD00695,Northstar Art Supplies,Books & Stationery,Art Supplies,Craftly,328.34,253.16,High,Active
+PROD00696,CorePlus Textbook,Books & Stationery,Textbook,Vivid,748.27,576.85,High,Active
+PROD00697,BrightNest Backpack,Fashion,Backpack,UrbanLeaf,1520.82,978.35,Low,Active
+PROD00698,Vivid Planner,Books & Stationery,Planner,Vivid,328.71,173.88,Medium,Active
+PROD00699,Northstar Skipping Rope,Sports & Outdoors,Skipping Rope,AeroMax,2225.26,1543.49,Low,Active
+PROD00700,Everday Sunglasses,Fashion,Sunglasses,ZenWorks,2213.82,1236.43,Low,Active
+PROD00701,AeroMax Body Lotion,Beauty & Personal Care,Body Lotion,Vivid,4389.59,3372.41,Medium,Discontinued
+PROD00702,BrightNest Backpack,Fashion,Backpack,Craftly,2475.48,1670.48,High,Active
+PROD00703,BlueOrbit Wallet,Fashion,Wallet,Vivid,37224.72,23650.15,Medium,Active
+PROD00704,Vivid Sunglasses,Fashion,Sunglasses,Nova,11432.11,7159.81,Low,Active
+PROD00705,AeroMax Laptop,Electronics,Laptop,PixelPeak,228.81,140.88,Medium,Active
+PROD00706,Craftly Trimmer,Beauty & Personal Care,Trimmer,Craftly,2716.21,2059.1,Low,Active
+PROD00707,ZenWorks Bedsheet,Home & Kitchen,Bedsheet,Everday,215.4,156.89,Medium,Discontinued
+PROD00708,BrightNest Smartphone,Electronics,Smartphone,AeroMax,893.97,586.75,Medium,Active
+PROD00709,BlueOrbit Bedsheet,Home & Kitchen,Bedsheet,Everday,1206.22,715.76,High,Active
+PROD00710,CorePlus Planner,Books & Stationery,Planner,AeroMax,42007.53,28359.9,Low,Active
+PROD00711,ZenWorks Sunglasses,Fashion,Sunglasses,CorePlus,11688.88,7220.81,Low,Discontinued
+PROD00712,BrightNest Cricket Bat,Sports & Outdoors,Cricket Bat,BrightNest,28146.76,19550.43,Medium,Active
+PROD00713,CorePlus Sunscreen,Beauty & Personal Care,Sunscreen,Craftly,8365.56,6059.08,Medium,Active
+PROD00714,Vivid Yoga Mat,Sports & Outdoors,Yoga Mat,BrightNest,66114.31,39914.13,Medium,Active
+PROD00715,CorePlus Speaker,Electronics,Speaker,Craftly,2323.13,1151.13,High,Active
+PROD00716,Nova Football,Sports & Outdoors,Football,Northstar,375.17,212.92,High,Active
+PROD00717,BlueOrbit Speaker,Electronics,Speaker,Northstar,2511.72,1732.07,High,Active
+PROD00718,UrbanLeaf Skipping Rope,Sports & Outdoors,Skipping Rope,UrbanLeaf,15646.02,12270.44,Medium,Active
+PROD00719,AeroMax Power Bank,Electronics,Power Bank,BlueOrbit,1670.33,1013.46,Medium,Active
+PROD00720,Nova Camping Tent,Sports & Outdoors,Camping Tent,CorePlus,11309.36,6967.36,Medium,Active
+PROD00721,PixelPeak Pillow,Home & Kitchen,Pillow,AeroMax,5140.44,2899.05,High,Active
+PROD00722,Craftly Wallet,Fashion,Wallet,CorePlus,7644.41,4415.41,Medium,Active
+PROD00723,UrbanLeaf Water Bottle,Home & Kitchen,Water Bottle,PixelPeak,15864.46,11521.96,High,Active
+PROD00724,Everday Marker Set,Books & Stationery,Marker Set,Vivid,1372.22,862.46,Medium,Active
+PROD00725,Everday Skipping Rope,Sports & Outdoors,Skipping Rope,BlueOrbit,508.24,367.34,Low,Active
+PROD00726,CorePlus Perfume,Beauty & Personal Care,Perfume,BlueOrbit,1011.96,814.01,High,Active
+PROD00727,Craftly Skipping Rope,Sports & Outdoors,Skipping Rope,BlueOrbit,1437.79,1046.7,Medium,Active
+PROD00728,ZenWorks Water Bottle,Home & Kitchen,Water Bottle,Everday,285.02,208.32,Medium,Discontinued
+PROD00729,AeroMax Jacket,Fashion,Jacket,PixelPeak,902.2,557.7,High,Discontinued
+PROD00730,Craftly Keyboard,Electronics,Keyboard,BrightNest,18785.31,10048.29,Medium,Active
+PROD00731,Nova Running Shoes,Sports & Outdoors,Running Shoes,Northstar,1604.58,851.01,Low,Discontinued
+PROD00732,Nova Yoga Mat,Sports & Outdoors,Yoga Mat,ZenWorks,2418.32,1375.89,High,Active
+PROD00733,BlueOrbit Bedsheet,Home & Kitchen,Bedsheet,Northstar,8846.05,5730.49,Medium,Active
+PROD00734,Northstar Handbag,Fashion,Handbag,CorePlus,60594.34,48653.05,High,Active
+PROD00735,BrightNest Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,BrightNest,53943.63,38972.15,Medium,Active
+PROD00736,Everday Headphones,Electronics,Headphones,BrightNest,416.79,300.83,High,Active
+PROD00737,Everday Speaker,Electronics,Speaker,Vivid,56743.28,46208.16,Medium,Discontinued
+PROD00738,ZenWorks Moisturizer,Beauty & Personal Care,Moisturizer,Nova,800.62,591.8,Medium,Active
+PROD00739,Craftly Smartwatch,Electronics,Smartwatch,PixelPeak,4745.82,3584.3,Medium,Active
+PROD00740,Craftly Cookware Set,Home & Kitchen,Cookware Set,UrbanLeaf,3455.69,1681.99,Low,Discontinued
+PROD00741,UrbanLeaf Shampoo,Beauty & Personal Care,Shampoo,AeroMax,19069.53,10609.08,Medium,Active
+PROD00742,AeroMax Bedsheet,Home & Kitchen,Bedsheet,BlueOrbit,812.11,639.82,Low,Active
+PROD00743,Nova Wallet,Fashion,Wallet,AeroMax,3288.72,2269.87,Medium,Active
+PROD00744,PixelPeak Trimmer,Beauty & Personal Care,Trimmer,Everday,33243.8,25085.06,Low,Active
+PROD00745,CorePlus Monitor,Electronics,Monitor,PixelPeak,169.71,104.27,Low,Discontinued
+PROD00746,AeroMax Moisturizer,Beauty & Personal Care,Moisturizer,BlueOrbit,73067.67,42349.11,Low,Active
+PROD00747,Northstar Speaker,Electronics,Speaker,AeroMax,6332.06,3605.72,Low,Discontinued
+PROD00748,AeroMax Pillow,Home & Kitchen,Pillow,BlueOrbit,36522.33,17743.0,Low,Active
+PROD00749,Northstar Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,PixelPeak,38277.21,22239.79,Low,Active
+PROD00750,Everday Desk Lamp,Home & Kitchen,Desk Lamp,Northstar,36612.24,27601.03,Medium,Active
+PROD00751,AeroMax Camping Tent,Sports & Outdoors,Camping Tent,ZenWorks,1962.16,1197.36,Low,Discontinued
+PROD00752,ZenWorks Sticky Notes,Books & Stationery,Sticky Notes,CorePlus,5244.82,3271.26,Low,Discontinued
+PROD00753,BrightNest Sunscreen,Beauty & Personal Care,Sunscreen,Northstar,1141.62,635.33,High,Discontinued
+PROD00754,BrightNest Camping Tent,Sports & Outdoors,Camping Tent,ZenWorks,13197.76,7854.38,Medium,Active
+PROD00755,Craftly Sneakers,Fashion,Sneakers,ZenWorks,1980.71,1223.28,High,Active
+PROD00756,CorePlus Dress,Fashion,Dress,Everday,2490.25,1884.7,Medium,Active
+PROD00757,PixelPeak Monitor,Electronics,Monitor,BrightNest,57988.82,36477.12,Medium,Discontinued
+PROD00758,Craftly Yoga Mat,Sports & Outdoors,Yoga Mat,ZenWorks,295.03,156.23,Medium,Active
+PROD00759,CorePlus Monitor,Electronics,Monitor,UrbanLeaf,73803.39,58721.68,Low,Discontinued
+PROD00760,Northstar Football,Sports & Outdoors,Football,PixelPeak,15202.71,11410.72,Medium,Discontinued
+PROD00761,Vivid Cricket Bat,Sports & Outdoors,Cricket Bat,UrbanLeaf,50770.77,38711.62,Medium,Active
+PROD00762,AeroMax Keyboard,Electronics,Keyboard,Northstar,12476.68,7064.09,Low,Active
+PROD00763,Everday Dumbbells,Sports & Outdoors,Dumbbells,Nova,1066.36,732.71,High,Active
+PROD00764,Vivid Laptop,Electronics,Laptop,AeroMax,40419.29,25059.39,Medium,Active
+PROD00765,ZenWorks Keyboard,Electronics,Keyboard,Northstar,737.46,508.85,Low,Discontinued
+PROD00766,Northstar Sneakers,Fashion,Sneakers,Everday,1697.05,1045.03,Medium,Active
+PROD00767,AeroMax Trimmer,Beauty & Personal Care,Trimmer,Northstar,22707.7,12781.44,Medium,Active
+PROD00768,Northstar Lipstick,Beauty & Personal Care,Lipstick,Northstar,44041.68,29824.84,Medium,Active
+PROD00769,UrbanLeaf Smartwatch,Electronics,Smartwatch,ZenWorks,28560.72,13829.53,Medium,Discontinued
+PROD00770,AeroMax Dumbbells,Sports & Outdoors,Dumbbells,Nova,59290.52,38939.91,Low,Active
+PROD00771,Northstar Art Supplies,Books & Stationery,Art Supplies,Vivid,948.01,554.5,Medium,Active
+PROD00772,UrbanLeaf Laptop,Electronics,Laptop,UrbanLeaf,24728.71,17067.07,High,Discontinued
+PROD00773,UrbanLeaf Speaker,Electronics,Speaker,BrightNest,1920.37,1196.38,Medium,Discontinued
+PROD00774,CorePlus Headphones,Electronics,Headphones,Northstar,73935.83,51286.76,Medium,Active
+PROD00775,Nova Sunscreen,Beauty & Personal Care,Sunscreen,Craftly,2229.06,1091.84,Low,Active
+PROD00776,PixelPeak Dining Set,Home & Kitchen,Dining Set,Nova,24108.3,19579.41,Medium,Active
+PROD00777,CorePlus Handbag,Fashion,Handbag,CorePlus,173.73,105.32,Medium,Active
+PROD00778,Craftly Novel,Books & Stationery,Novel,BlueOrbit,189.92,141.13,Low,Active
+PROD00779,AeroMax File Folder,Books & Stationery,File Folder,Northstar,35603.27,27669.88,Medium,Active
+PROD00780,Craftly Cycling Helmet,Sports & Outdoors,Cycling Helmet,Nova,2929.5,2069.49,Low,Active
+PROD00781,UrbanLeaf Camping Tent,Sports & Outdoors,Camping Tent,CorePlus,7277.23,4621.9,Medium,Active
+PROD00782,UrbanLeaf Bedsheet,Home & Kitchen,Bedsheet,ZenWorks,3341.83,2137.34,Low,Active
+PROD00783,Northstar Dining Set,Home & Kitchen,Dining Set,UrbanLeaf,307.6,248.8,Medium,Discontinued
+PROD00784,Nova Sunscreen,Beauty & Personal Care,Sunscreen,Nova,5879.99,3845.03,Medium,Discontinued
+PROD00785,BrightNest Jacket,Fashion,Jacket,PixelPeak,726.24,357.67,Medium,Active
+PROD00786,PixelPeak Camping Tent,Sports & Outdoors,Camping Tent,Vivid,154.05,99.18,Medium,Active
+PROD00787,Everday Dumbbells,Sports & Outdoors,Dumbbells,BlueOrbit,3186.07,1582.2,Medium,Active
+PROD00788,AeroMax Perfume,Beauty & Personal Care,Perfume,PixelPeak,988.78,514.94,Low,Active
+PROD00789,PixelPeak Camping Tent,Sports & Outdoors,Camping Tent,Nova,463.52,369.89,Low,Active
+PROD00790,ZenWorks Mouse,Electronics,Mouse,BlueOrbit,290.15,219.85,Medium,Active
+PROD00791,Everday Bedsheet,Home & Kitchen,Bedsheet,Nova,60823.69,46823.22,Medium,Active
+PROD00792,Craftly Keyboard,Electronics,Keyboard,ZenWorks,242.36,117.21,Low,Active
+PROD00793,Northstar Mouse,Electronics,Mouse,Vivid,2604.94,1601.54,Medium,Active
+PROD00794,BrightNest Perfume,Beauty & Personal Care,Perfume,PixelPeak,1488.23,992.6,Medium,Active
+PROD00795,BlueOrbit Pillow,Home & Kitchen,Pillow,Craftly,3958.32,2614.93,Medium,Active
+PROD00796,Vivid Novel,Books & Stationery,Novel,Nova,28794.14,22994.64,Low,Active
+PROD00797,PixelPeak Shampoo,Beauty & Personal Care,Shampoo,PixelPeak,20017.98,15022.41,Medium,Active
+PROD00798,Everday Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,Everday,192.86,115.7,Medium,Discontinued
+PROD00799,AeroMax Football,Sports & Outdoors,Football,CorePlus,7976.15,6227.17,Medium,Active
+PROD00800,Northstar Camera,Electronics,Camera,Everday,1377.62,705.8,High,Discontinued
+PROD00801,Vivid Headphones,Electronics,Headphones,UrbanLeaf,19975.85,14297.02,Medium,Active
+PROD00802,AeroMax Moisturizer,Beauty & Personal Care,Moisturizer,Everday,4897.15,3647.9,Medium,Active
+PROD00803,ZenWorks Sticky Notes,Books & Stationery,Sticky Notes,Everday,21511.26,10590.94,Medium,Discontinued
+PROD00804,CorePlus Running Shoes,Sports & Outdoors,Running Shoes,Everday,2408.87,1174.81,Medium,Active
+PROD00805,BrightNest Lipstick,Beauty & Personal Care,Lipstick,ZenWorks,3421.52,2533.4,Medium,Active
+PROD00806,UrbanLeaf Smartwatch,Electronics,Smartwatch,Northstar,2630.54,2049.13,Medium,Discontinued
+PROD00807,PixelPeak Trimmer,Beauty & Personal Care,Trimmer,Vivid,1495.6,1115.9,Medium,Active
+PROD00808,Northstar Water Bottle,Home & Kitchen,Water Bottle,ZenWorks,171.72,117.78,High,Discontinued
+PROD00809,BrightNest Camping Tent,Sports & Outdoors,Camping Tent,ZenWorks,607.22,469.36,High,Active
+PROD00810,BlueOrbit Headphones,Electronics,Headphones,CorePlus,7287.09,3855.97,Medium,Discontinued
+PROD00811,Everday Headphones,Electronics,Headphones,UrbanLeaf,45954.03,34082.84,Medium,Active
+PROD00812,AeroMax Bedsheet,Home & Kitchen,Bedsheet,Everday,1447.05,1000.47,High,Active
+PROD00813,Vivid Marker Set,Books & Stationery,Marker Set,PixelPeak,39967.21,31269.89,Medium,Active
+PROD00814,ZenWorks Dining Set,Home & Kitchen,Dining Set,Northstar,1803.63,1461.4,Medium,Active
+PROD00815,Nova Camera,Electronics,Camera,CorePlus,9237.19,7148.27,High,Active
+PROD00816,BrightNest Jeans,Fashion,Jeans,UrbanLeaf,992.83,478.52,Medium,Active
+PROD00817,AeroMax Marker Set,Books & Stationery,Marker Set,CorePlus,1382.3,915.24,High,Active
+PROD00818,BrightNest Art Supplies,Books & Stationery,Art Supplies,AeroMax,10098.46,6394.45,Medium,Active
+PROD00819,Nova Bedsheet,Home & Kitchen,Bedsheet,UrbanLeaf,7122.14,4451.97,Medium,Discontinued
+PROD00820,AeroMax Cycling Helmet,Sports & Outdoors,Cycling Helmet,Nova,6170.87,4383.27,High,Active
+PROD00821,Northstar Trimmer,Beauty & Personal Care,Trimmer,Craftly,545.19,311.8,Medium,Active
+PROD00822,ZenWorks Cricket Bat,Sports & Outdoors,Cricket Bat,BrightNest,211.52,106.58,Medium,Active
+PROD00823,BlueOrbit Jacket,Fashion,Jacket,CorePlus,19261.04,14997.07,Medium,Active
+PROD00824,Craftly Yoga Mat,Sports & Outdoors,Yoga Mat,UrbanLeaf,995.72,623.89,Medium,Discontinued
+PROD00825,Nova Pen Set,Books & Stationery,Pen Set,BlueOrbit,413.2,291.66,Low,Active
+PROD00826,Northstar T-Shirt,Fashion,T-Shirt,Craftly,18497.35,11394.38,Medium,Discontinued
+PROD00827,Northstar Marker Set,Books & Stationery,Marker Set,AeroMax,7918.05,4962.75,High,Discontinued
+PROD00828,Craftly Trimmer,Beauty & Personal Care,Trimmer,AeroMax,507.5,337.16,Medium,Active
+PROD00829,Craftly Moisturizer,Beauty & Personal Care,Moisturizer,BlueOrbit,3929.07,2459.71,Low,Discontinued
+PROD00830,CorePlus Waterproof Bag,Sports & Outdoors,Waterproof Bag,BrightNest,10846.41,7340.92,Medium,Active
+PROD00831,UrbanLeaf Power Bank,Electronics,Power Bank,Nova,10605.87,5548.33,Low,Active
+PROD00832,Northstar Smartwatch,Electronics,Smartwatch,BrightNest,1773.9,992.19,High,Active
+PROD00833,Everday Headphones,Electronics,Headphones,Nova,578.6,317.62,Low,Active
+PROD00834,ZenWorks Cookware Set,Home & Kitchen,Cookware Set,BrightNest,834.1,670.89,High,Active
+PROD00835,Northstar Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,PixelPeak,195.02,101.95,Medium,Active
+PROD00836,Nova Marker Set,Books & Stationery,Marker Set,PixelPeak,10229.42,6308.06,Medium,Discontinued
+PROD00837,UrbanLeaf Sunscreen,Beauty & Personal Care,Sunscreen,BlueOrbit,33567.24,19143.36,Low,Discontinued
+PROD00838,Vivid Pen Set,Books & Stationery,Pen Set,CorePlus,1768.66,1410.93,Low,Discontinued
+PROD00839,PixelPeak Lipstick,Beauty & Personal Care,Lipstick,PixelPeak,808.37,455.15,Medium,Active
+PROD00840,UrbanLeaf Wallet,Fashion,Wallet,BrightNest,1895.74,943.95,Medium,Active
+PROD00841,PixelPeak Cricket Bat,Sports & Outdoors,Cricket Bat,PixelPeak,867.52,479.85,Low,Active
+PROD00842,ZenWorks Makeup Kit,Beauty & Personal Care,Makeup Kit,CorePlus,1393.54,806.11,Low,Discontinued
+PROD00843,BrightNest Notebook Pack,Books & Stationery,Notebook Pack,Vivid,391.74,258.43,Medium,Active
+PROD00844,Northstar Laptop,Electronics,Laptop,AeroMax,772.93,496.84,Medium,Active
+PROD00845,Northstar Cricket Bat,Sports & Outdoors,Cricket Bat,Northstar,254.79,128.96,Low,Discontinued
+PROD00846,UrbanLeaf Pen Set,Books & Stationery,Pen Set,Vivid,827.97,547.1,Medium,Active
+PROD00847,PixelPeak Sunglasses,Fashion,Sunglasses,UrbanLeaf,8530.69,4694.54,High,Active
+PROD00848,Craftly Jacket,Fashion,Jacket,AeroMax,9232.32,5892.36,Medium,Active
+PROD00849,Craftly Pen Set,Books & Stationery,Pen Set,Everday,9839.05,7063.68,Medium,Active
+PROD00850,Northstar Pillow,Home & Kitchen,Pillow,PixelPeak,470.76,316.24,Medium,Active
+PROD00851,BrightNest Yoga Mat,Sports & Outdoors,Yoga Mat,UrbanLeaf,540.86,286.22,Medium,Active
+PROD00852,Everday Dumbbells,Sports & Outdoors,Dumbbells,AeroMax,21498.97,13838.07,High,Active
+PROD00853,ZenWorks Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,CorePlus,232.76,176.67,Medium,Active
+PROD00854,Craftly Moisturizer,Beauty & Personal Care,Moisturizer,Everday,1440.43,836.57,Low,Active
+PROD00855,BlueOrbit Laptop,Electronics,Laptop,CorePlus,2628.24,1684.65,Medium,Active
+PROD00856,BrightNest Face Wash,Beauty & Personal Care,Face Wash,Northstar,783.03,418.8,Medium,Active
+PROD00857,Northstar Watch,Fashion,Watch,Northstar,4218.18,2531.11,Medium,Active
+PROD00858,AeroMax Storage Box,Home & Kitchen,Storage Box,AeroMax,5881.89,4536.62,High,Active
+PROD00859,Northstar Sneakers,Fashion,Sneakers,Nova,5252.92,3016.63,Low,Active
+PROD00860,Vivid Makeup Kit,Beauty & Personal Care,Makeup Kit,BrightNest,12108.06,9715.17,Medium,Active
+PROD00861,Everday Face Wash,Beauty & Personal Care,Face Wash,PixelPeak,9810.75,7028.39,Low,Active
+PROD00862,Nova Handbag,Fashion,Handbag,Everday,72185.52,55252.5,Medium,Discontinued
+PROD00863,AeroMax Notebook Pack,Books & Stationery,Notebook Pack,BlueOrbit,19055.94,9730.1,Medium,Discontinued
+PROD00864,BrightNest Jeans,Fashion,Jeans,BrightNest,2815.69,2182.76,Low,Active
+PROD00865,BrightNest Skipping Rope,Sports & Outdoors,Skipping Rope,Vivid,446.98,253.34,Medium,Active
+PROD00866,BlueOrbit Makeup Kit,Beauty & Personal Care,Makeup Kit,Craftly,980.91,525.22,High,Active
+PROD00867,Vivid Sneakers,Fashion,Sneakers,PixelPeak,72020.6,44433.42,Low,Active
+PROD00868,Nova Power Bank,Electronics,Power Bank,PixelPeak,21380.17,16828.24,Medium,Active
+PROD00869,AeroMax Handbag,Fashion,Handbag,PixelPeak,768.26,478.8,Low,Active
+PROD00870,Nova Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,BlueOrbit,4430.72,3274.64,Medium,Active
+PROD00871,CorePlus Body Lotion,Beauty & Personal Care,Body Lotion,BlueOrbit,16360.86,11988.09,Medium,Active
+PROD00872,CorePlus Smartwatch,Electronics,Smartwatch,Everday,4714.93,2433.43,Medium,Active
+PROD00873,UrbanLeaf T-Shirt,Fashion,T-Shirt,BlueOrbit,208.71,145.06,Medium,Active
+PROD00874,Vivid Hair Dryer,Beauty & Personal Care,Hair Dryer,Nova,939.77,499.2,Medium,Discontinued
+PROD00875,Craftly Smartphone,Electronics,Smartphone,Northstar,19711.78,13685.0,Medium,Active
+PROD00876,ZenWorks Trimmer,Beauty & Personal Care,Trimmer,BrightNest,67284.85,40234.33,Low,Active
+PROD00877,Northstar Smartphone,Electronics,Smartphone,UrbanLeaf,173.61,85.66,High,Discontinued
+PROD00878,Vivid Pillow,Home & Kitchen,Pillow,BrightNest,400.81,319.37,High,Discontinued
+PROD00879,AeroMax Water Bottle,Home & Kitchen,Water Bottle,BrightNest,1229.37,861.08,Low,Active
+PROD00880,UrbanLeaf Marker Set,Books & Stationery,Marker Set,ZenWorks,842.89,653.02,Medium,Discontinued
+PROD00881,UrbanLeaf Desk Organizer,Books & Stationery,Desk Organizer,UrbanLeaf,208.12,156.64,Medium,Active
+PROD00882,BlueOrbit Textbook,Books & Stationery,Textbook,BrightNest,184.39,88.96,Medium,Discontinued
+PROD00883,UrbanLeaf Cricket Bat,Sports & Outdoors,Cricket Bat,Northstar,3790.35,2255.12,Medium,Discontinued
+PROD00884,CorePlus Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,Northstar,68792.44,46369.04,Medium,Active
+PROD00885,BrightNest Sunglasses,Fashion,Sunglasses,Northstar,22509.21,17289.96,High,Discontinued
+PROD00886,PixelPeak Dress,Fashion,Dress,PixelPeak,3787.24,2908.86,Medium,Active
+PROD00887,Nova Desk Organizer,Books & Stationery,Desk Organizer,AeroMax,441.43,346.29,Medium,Active
+PROD00888,ZenWorks Marker Set,Books & Stationery,Marker Set,Northstar,2058.78,1190.3,High,Active
+PROD00889,Craftly Jacket,Fashion,Jacket,BlueOrbit,811.97,605.9,Medium,Active
+PROD00890,Nova Cookware Set,Home & Kitchen,Cookware Set,Craftly,3311.0,2318.34,Medium,Active
+PROD00891,ZenWorks Speaker,Electronics,Speaker,Northstar,598.26,351.03,Medium,Active
+PROD00892,Northstar Running Shoes,Sports & Outdoors,Running Shoes,BrightNest,253.46,179.75,High,Active
+PROD00893,CorePlus Smartphone,Electronics,Smartphone,Vivid,38661.98,20092.96,Medium,Active
+PROD00894,BrightNest Smartwatch,Electronics,Smartwatch,PixelPeak,696.18,427.07,Medium,Active
+PROD00895,Northstar Skipping Rope,Sports & Outdoors,Skipping Rope,AeroMax,14686.59,8398.55,High,Active
+PROD00896,Craftly Power Bank,Electronics,Power Bank,AeroMax,3646.74,2827.04,Low,Discontinued
+PROD00897,ZenWorks Monitor,Electronics,Monitor,Craftly,1321.27,1013.55,High,Active
+PROD00898,UrbanLeaf Pillow,Home & Kitchen,Pillow,PixelPeak,10687.09,6048.47,Medium,Discontinued
+PROD00899,Vivid Planner,Books & Stationery,Planner,ZenWorks,480.22,285.59,Medium,Discontinued
+PROD00900,CorePlus Lipstick,Beauty & Personal Care,Lipstick,Northstar,52625.25,35494.93,Low,Active
+PROD00901,Vivid Headphones,Electronics,Headphones,Nova,443.89,289.17,Low,Active
+PROD00902,BrightNest Makeup Kit,Beauty & Personal Care,Makeup Kit,AeroMax,1903.27,1088.36,High,Active
+PROD00903,BrightNest Pillow,Home & Kitchen,Pillow,BlueOrbit,158.1,90.1,Medium,Discontinued
+PROD00904,PixelPeak Sticky Notes,Books & Stationery,Sticky Notes,AeroMax,7383.66,4617.15,Low,Active
+PROD00905,CorePlus Jacket,Fashion,Jacket,Everday,1328.1,731.28,Medium,Active
+PROD00906,Vivid Sticky Notes,Books & Stationery,Sticky Notes,Vivid,67621.63,39218.2,High,Active
+PROD00907,Nova Bedsheet,Home & Kitchen,Bedsheet,CorePlus,7871.49,4165.63,High,Active
+PROD00908,Craftly Laptop,Electronics,Laptop,PixelPeak,68829.21,34753.31,Medium,Discontinued
+PROD00909,UrbanLeaf Monitor,Electronics,Monitor,BrightNest,1369.29,825.77,Low,Active
+PROD00910,Everday Moisturizer,Beauty & Personal Care,Moisturizer,BrightNest,12882.62,7933.44,Medium,Discontinued
+PROD00911,Nova Smartwatch,Electronics,Smartwatch,Nova,3052.42,1624.49,Medium,Active
+PROD00912,UrbanLeaf Camera,Electronics,Camera,Northstar,984.67,780.04,Medium,Active
+PROD00913,Craftly Speaker,Electronics,Speaker,UrbanLeaf,21397.1,17510.66,Low,Active
+PROD00914,Everday Sticky Notes,Books & Stationery,Sticky Notes,ZenWorks,42641.28,28312.4,Medium,Active
+PROD00915,PixelPeak Backpack,Fashion,Backpack,Vivid,305.05,155.33,Low,Active
+PROD00916,Nova Notebook Pack,Books & Stationery,Notebook Pack,ZenWorks,63845.71,33707.62,Low,Active
+PROD00917,BrightNest Pillow,Home & Kitchen,Pillow,PixelPeak,1498.4,947.14,Medium,Active
+PROD00918,Northstar Jacket,Fashion,Jacket,PixelPeak,5276.54,3946.67,Low,Active
+PROD00919,Nova Marker Set,Books & Stationery,Marker Set,PixelPeak,566.29,322.64,High,Active
+PROD00920,Nova Bedsheet,Home & Kitchen,Bedsheet,PixelPeak,26442.15,17535.22,High,Active
+PROD00921,ZenWorks Marker Set,Books & Stationery,Marker Set,PixelPeak,3019.76,2320.74,High,Discontinued
+PROD00922,CorePlus Desk Lamp,Home & Kitchen,Desk Lamp,ZenWorks,16125.52,12077.95,Medium,Discontinued
+PROD00923,Craftly Jeans,Fashion,Jeans,Vivid,38477.83,25989.96,Medium,Active
+PROD00924,Nova Cookware Set,Home & Kitchen,Cookware Set,Everday,5025.5,2552.58,Medium,Active
+PROD00925,Nova Power Bank,Electronics,Power Bank,CorePlus,456.07,288.66,High,Discontinued
+PROD00926,CorePlus Dining Set,Home & Kitchen,Dining Set,PixelPeak,25631.14,12740.48,High,Active
+PROD00927,Vivid Camera,Electronics,Camera,BlueOrbit,42784.48,30475.38,Medium,Active
+PROD00928,CorePlus Sneakers,Fashion,Sneakers,Everday,14258.04,8055.81,Medium,Discontinued
+PROD00929,BlueOrbit File Folder,Books & Stationery,File Folder,Everday,9135.31,5412.36,Medium,Active
+PROD00930,PixelPeak Yoga Mat,Sports & Outdoors,Yoga Mat,UrbanLeaf,20150.0,13250.62,Medium,Discontinued
+PROD00931,CorePlus Hair Dryer,Beauty & Personal Care,Hair Dryer,Northstar,2745.88,1956.06,Medium,Discontinued
+PROD00932,AeroMax Pillow,Home & Kitchen,Pillow,UrbanLeaf,1981.36,1019.8,Medium,Discontinued
+PROD00933,BlueOrbit Makeup Kit,Beauty & Personal Care,Makeup Kit,BrightNest,17134.42,9014.02,Medium,Active
+PROD00934,BlueOrbit Cricket Bat,Sports & Outdoors,Cricket Bat,ZenWorks,6658.1,4797.75,Medium,Active
+PROD00935,Everday Makeup Kit,Beauty & Personal Care,Makeup Kit,AeroMax,158.1,113.86,High,Discontinued
+PROD00936,Nova Desk Organizer,Books & Stationery,Desk Organizer,AeroMax,67673.8,32681.87,Low,Active
+PROD00937,BlueOrbit Sunscreen,Beauty & Personal Care,Sunscreen,Vivid,2815.32,1716.68,Medium,Discontinued
+PROD00938,BlueOrbit Cookware Set,Home & Kitchen,Cookware Set,AeroMax,3112.99,1720.47,High,Active
+PROD00939,ZenWorks Skipping Rope,Sports & Outdoors,Skipping Rope,UrbanLeaf,3962.28,2820.15,Medium,Active
+PROD00940,UrbanLeaf Dress,Fashion,Dress,ZenWorks,177.99,126.16,Medium,Active
+PROD00941,AeroMax Power Bank,Electronics,Power Bank,Vivid,439.76,330.72,Medium,Active
+PROD00942,PixelPeak Wallet,Fashion,Wallet,ZenWorks,355.61,176.23,Medium,Active
+PROD00943,Everday Dumbbells,Sports & Outdoors,Dumbbells,UrbanLeaf,21262.59,14209.66,Low,Active
+PROD00944,BlueOrbit Textbook,Books & Stationery,Textbook,UrbanLeaf,157.05,89.72,High,Active
+PROD00945,PixelPeak Dining Set,Home & Kitchen,Dining Set,UrbanLeaf,8187.72,4049.02,Low,Active
+PROD00946,Vivid Desk Lamp,Home & Kitchen,Desk Lamp,UrbanLeaf,39682.16,23881.83,Medium,Active
+PROD00947,PixelPeak Sneakers,Fashion,Sneakers,Vivid,53464.44,33204.85,Low,Active
+PROD00948,BlueOrbit Dining Set,Home & Kitchen,Dining Set,BlueOrbit,23018.89,13829.89,Medium,Active
+PROD00949,UrbanLeaf Smartphone,Electronics,Smartphone,Craftly,195.59,103.29,Medium,Discontinued
+PROD00950,BrightNest Smartphone,Electronics,Smartphone,BlueOrbit,39870.94,29494.48,Medium,Active
+PROD00951,Nova Dining Set,Home & Kitchen,Dining Set,BlueOrbit,685.88,390.58,Medium,Active
+PROD00952,Northstar Bedsheet,Home & Kitchen,Bedsheet,Everday,155.21,97.51,High,Active
+PROD00953,Craftly Dress,Fashion,Dress,Vivid,21728.83,16047.57,Low,Active
+PROD00954,Everday Novel,Books & Stationery,Novel,ZenWorks,493.08,313.25,Medium,Discontinued
+PROD00955,BrightNest Smartwatch,Electronics,Smartwatch,ZenWorks,944.28,729.11,Medium,Active
+PROD00956,ZenWorks Cycling Helmet,Sports & Outdoors,Cycling Helmet,UrbanLeaf,1350.84,1091.77,Low,Active
+PROD00957,ZenWorks Watch,Fashion,Watch,BrightNest,1856.89,980.51,Medium,Active
+PROD00958,CorePlus Art Supplies,Books & Stationery,Art Supplies,Nova,21200.21,11611.42,Low,Active
+PROD00959,ZenWorks Jeans,Fashion,Jeans,Nova,433.36,231.57,Medium,Active
+PROD00960,CorePlus Bedsheet,Home & Kitchen,Bedsheet,Everday,33106.14,18498.14,Medium,Active
+PROD00961,Everday Planner,Books & Stationery,Planner,BlueOrbit,2254.92,1144.93,Medium,Active
+PROD00962,CorePlus Watch,Fashion,Watch,Everday,31722.29,19363.22,Medium,Active
+PROD00963,ZenWorks Sunscreen,Beauty & Personal Care,Sunscreen,CorePlus,41105.12,27523.98,High,Active
+PROD00964,Everday Water Bottle,Home & Kitchen,Water Bottle,CorePlus,2286.41,1175.87,Medium,Active
+PROD00965,Vivid Camera,Electronics,Camera,Nova,48876.71,30117.34,High,Active
+PROD00966,Vivid Moisturizer,Beauty & Personal Care,Moisturizer,Everday,271.73,205.99,High,Active
+PROD00967,Vivid Power Bank,Electronics,Power Bank,BlueOrbit,8618.86,5688.4,High,Active
+PROD00968,AeroMax Camping Tent,Sports & Outdoors,Camping Tent,AeroMax,718.02,442.23,Medium,Active
+PROD00969,AeroMax Handbag,Fashion,Handbag,Everday,77121.23,52703.75,Medium,Active
+PROD00970,Nova Jacket,Fashion,Jacket,BrightNest,347.64,250.62,Medium,Discontinued
+PROD00971,Nova Dining Set,Home & Kitchen,Dining Set,ZenWorks,365.24,175.87,Low,Active
+PROD00972,Everday Coffee Maker,Home & Kitchen,Coffee Maker,PixelPeak,511.38,264.78,Medium,Active
+PROD00973,Vivid File Folder,Books & Stationery,File Folder,UrbanLeaf,13644.15,9312.55,Medium,Active
+PROD00974,Nova Trimmer,Beauty & Personal Care,Trimmer,PixelPeak,12666.9,8303.53,Low,Discontinued
+PROD00975,Vivid Cookware Set,Home & Kitchen,Cookware Set,AeroMax,10098.46,6943.52,Medium,Active
+PROD00976,BrightNest Art Supplies,Books & Stationery,Art Supplies,CorePlus,7039.59,3643.42,Medium,Discontinued
+PROD00977,ZenWorks Jeans,Fashion,Jeans,Everday,1001.78,754.9,High,Discontinued
+PROD00978,ZenWorks Hair Dryer,Beauty & Personal Care,Hair Dryer,ZenWorks,445.17,347.79,Low,Discontinued
+PROD00979,Nova Jeans,Fashion,Jeans,Craftly,3998.09,2977.53,Low,Active
+PROD00980,CorePlus Cricket Bat,Sports & Outdoors,Cricket Bat,BlueOrbit,6658.5,4448.31,Medium,Active
+PROD00981,UrbanLeaf Shampoo,Beauty & Personal Care,Shampoo,BlueOrbit,5015.35,3656.55,Medium,Active
+PROD00982,Vivid Cricket Bat,Sports & Outdoors,Cricket Bat,Everday,154.18,120.3,Medium,Active
+PROD00983,BrightNest Sunglasses,Fashion,Sunglasses,Northstar,76514.36,44363.53,High,Discontinued
+PROD00984,Vivid Cookware Set,Home & Kitchen,Cookware Set,BlueOrbit,51481.04,35233.28,Low,Active
+PROD00985,UrbanLeaf Camping Tent,Sports & Outdoors,Camping Tent,Everday,521.87,284.9,Medium,Active
+PROD00986,Craftly Bedsheet,Home & Kitchen,Bedsheet,Everday,2381.32,1569.15,High,Active
+PROD00987,Northstar T-Shirt,Fashion,T-Shirt,Craftly,23868.36,12598.75,Low,Discontinued
+PROD00988,BrightNest Headphones,Electronics,Headphones,ZenWorks,6301.0,3089.75,High,Active
+PROD00989,Nova Art Supplies,Books & Stationery,Art Supplies,Nova,1655.23,824.9,Medium,Active
+PROD00990,UrbanLeaf Planner,Books & Stationery,Planner,Nova,643.88,520.32,Medium,Discontinued
+PROD00991,Everday Cycling Helmet,Sports & Outdoors,Cycling Helmet,PixelPeak,7310.23,3805.72,Low,Active
+PROD00992,Everday Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner,ZenWorks,194.08,114.5,High,Active
+PROD00993,BrightNest Notebook Pack,Books & Stationery,Notebook Pack,ZenWorks,1008.97,782.5,Medium,Active
+PROD00994,Everday Dumbbells,Sports & Outdoors,Dumbbells,AeroMax,167.14,111.22,Low,Active
+PROD00995,Nova Trimmer,Beauty & Personal Care,Trimmer,BrightNest,13272.55,8129.58,Low,Active
+PROD00996,Craftly Cycling Helmet,Sports & Outdoors,Cycling Helmet,ZenWorks,18086.82,9346.05,Low,Active
+PROD00997,CorePlus Sunglasses,Fashion,Sunglasses,BlueOrbit,402.45,275.67,High,Discontinued
+PROD00998,BlueOrbit Speaker,Electronics,Speaker,AeroMax,49855.06,31663.53,Medium,Active
+PROD00999,Craftly Pen Set,Books & Stationery,Pen Set,UrbanLeaf,1316.35,942.94,Medium,Active
+PROD01000,Vivid Speaker,Electronics,Speaker,Nova,42616.76,26623.77,High,Active
