@@ -122,6 +122,17 @@ The GitHub repository can contain the following files:
 - Payments dataset (`payments.csv`)
 - README file (`README.md`)
 
+## 📊 Dashboard Preview
+
+### 1. Key Insights
+![Key Insights](<key insights.png>)
+
+### 2. Customer and Market Analysis
+![Customer and Market Analysis](<customer and market analysis.png>)
+
+### 3. Sales and Profit Analysis
+![Sales and Profit Analysis](<sale and profit analysis.png>)
+
 ## 10. References
 
 - Microsoft Power BI: https://powerbi.microsoft.com/
